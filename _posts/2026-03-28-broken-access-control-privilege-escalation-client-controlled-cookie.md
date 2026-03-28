@@ -14,7 +14,7 @@ image:
 
 This lab demonstrates a **privilege escalation vulnerability** where user roles are controlled via client-side input.
 
-By modifying a cookie value, an attacker can escalate privileges and gain unauthorized administrative access.
+By modifying a cookie value, an attacker can escalate privileges and gain unauthorized administrative access
 
 ---
 
