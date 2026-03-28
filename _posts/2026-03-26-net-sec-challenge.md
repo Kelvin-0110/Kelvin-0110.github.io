@@ -6,7 +6,7 @@ tags: [nmap, hydra, ftp, telnet, enumeration, brute-force]
 platform: TryHackMe
 author: Kelvin
 image:
-  path: /assets/images/net-sec.webp
+  path: /assets/images/posts/net-sec.webp
   alt: Net Sec Challenge
 ---
 
