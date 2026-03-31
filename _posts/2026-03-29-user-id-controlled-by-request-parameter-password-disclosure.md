@@ -6,7 +6,7 @@ tags: [idor, access-control, password-disclosure]
 platform: PortSwigger
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/idor-and-access-contol.webp
+  path: /assets/images/posts/idor-and-access-control.webp
   alt: Password Disclosure via IDOR
 ---
 
