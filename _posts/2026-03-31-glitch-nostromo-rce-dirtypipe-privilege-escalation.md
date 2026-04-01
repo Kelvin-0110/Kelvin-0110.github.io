@@ -5,7 +5,7 @@ categories: [Linux, Privilege Escalation]
 tags: [nostromo, rce, dirtypipe, kernel exploit, metasploit, linux, ctf]
 platform: Hackviser
 author: Shivansh Sharma
-image: { path: /assets/img/posts/glitch/cover.png, alt: "Nostromo Exploitation" }
+image: { path: /assets/images/posts/linux-1.webp, alt: "Nostromo Exploitation" }
 ---
 
 ## Overview
