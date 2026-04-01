@@ -6,7 +6,7 @@ tags: [path-traversal, lfi, file-inclusion]
 platform: PortSwigger
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/lfi.webp
+  path: /assets/images/posts/path-traversal.webp
   alt: File Path Traversal Attack
 ---
 
