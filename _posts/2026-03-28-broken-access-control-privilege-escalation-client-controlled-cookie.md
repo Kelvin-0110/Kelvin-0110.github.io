@@ -109,7 +109,7 @@ Administrative access was granted without proper authorization.
 
 ---
 
-## 📸 Proof of Exploitation
+## Proof of Exploitation
 
 ### ✅ Result
 
