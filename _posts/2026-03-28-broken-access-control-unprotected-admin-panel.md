@@ -10,7 +10,7 @@ image:
   alt: Unprotected Admin Panel Access
 ---
 
-## 🧠 Overview
+## Overview
 
 This lab demonstrates a classic case of **broken access control**, where sensitive administrative functionality is exposed without authentication.
 
@@ -18,14 +18,14 @@ An attacker can directly access privileged endpoints and perform critical action
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Access the admin panel
 - Delete the user `carlos`
 
 ---
 
-## 🔍 Reconnaissance
+## Reconnaissance
 
 ### Step 1: Inspect `robots.txt`
 
