@@ -33,7 +33,7 @@ An attacker can directly access privileged endpoints and perform critical action
 /robots.txt
 
 
-### 🔎 Observation
+### Observation
 
 The file reveals a hidden administrative endpoint:
 
@@ -41,7 +41,7 @@ The file reveals a hidden administrative endpoint:
 /administrator-panel
 
 
-### 📸 Evidence
+### Evidence
 
 ![robots.txt output showing admin path](/assets/images/favicons/unprotected-admin-1.png)
 
@@ -49,7 +49,7 @@ This suggests the presence of an admin interface that may not be properly secure
 
 ---
 
-## 💥 Exploitation
+## Exploitation
 
 ### Step 2: Access Admin Panel
 
@@ -59,7 +59,7 @@ Navigate to:
 /administrator-panel
 
 
-### 📸 Evidence
+### Evidence
 
 ![Admin panel accessed without authentication](/assets/images/favicons/unprotected-admin-2.png)
 
@@ -75,11 +75,11 @@ No authentication is required to access the panel.
 
 ---
 
-## 📸 Proof of Exploitation
+## Proof of Exploitation
 
 ![Lab solved confirmation](/assets/images/favicons/unprotected-admin-3.png)
 
-### ✅ Result
+### Result
 
 - Admin panel accessible without authentication  
 - User `carlos` successfully deleted  
@@ -87,7 +87,7 @@ No authentication is required to access the panel.
 
 ---
 
-## 🛡️ Impact
+## Impact
 
 This vulnerability can lead to:
 
@@ -97,7 +97,7 @@ This vulnerability can lead to:
 
 ---
 
-## 🛠️ Mitigation
+## Mitigation
 
 To prevent this issue:
 
@@ -108,7 +108,7 @@ To prevent this issue:
 
 ---
 
-## 🌍 Real-World Insight
+## Real-World Insight
 
 Relying on hidden endpoints for security is ineffective. Attackers routinely enumerate paths using:
 
