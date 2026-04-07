@@ -1,7 +1,7 @@
 ---
 title: "Venomous: Directory Traversal → LFI → Log Poisoning → Reverse Shell"
 date: 2026-03-29 23:59:00 +0530
-categories: [Hackviser, Intermediate]
+categories: [Hackviser, Easy]
 tags: [lfi, directory-traversal, log-poisoning, rce, nginx, reverse-shell]
 platform: Hackviser
 author: Shivansh Sharma

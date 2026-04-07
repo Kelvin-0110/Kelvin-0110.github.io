@@ -1,7 +1,7 @@
 ---
 title: "Discover Lernaean: Directory Enumeration → File Manager Access → SSH Brute Force"
 date: 2026-03-29 23:00:00 +0530
-categories: [Hackviser, Intermediate]
+categories: [Hackviser, Easy]
 tags: [gobuster, directory-enumeration, file-manager, brute-force, hydra, ssh]
 platform: Hackviser
 author: Shivansh Sharma

@@ -1,7 +1,7 @@
 ---
 title: "Bee: SQL Injection → File Upload → Remote Code Execution"
 date: 2026-03-29 23:30:00 +0530
-categories: [Hackviser, Intermediate]
+categories: [Hackviser, Easy]
 tags: [sqli, file-upload, rce, webshell, gobuster, misconfiguration]
 platform: Hackviser
 author: Shivansh Sharma

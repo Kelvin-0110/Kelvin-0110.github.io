@@ -1,7 +1,7 @@
 ---
 title: "Leaf: SSTI → Template Engine Identification → Bind Shell → Data Exposure"
 date: 2026-03-29 23:50:00 +0530
-categories: [Hackviser, Intermediate]
+categories: [Hackviser, Easy]
 tags: [ssti, twig, rce, bind-shell, web-exploitation]
 platform: Hackviser
 author: Shivansh Sharma

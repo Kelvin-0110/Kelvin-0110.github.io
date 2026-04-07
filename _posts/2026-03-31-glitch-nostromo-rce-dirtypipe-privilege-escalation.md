@@ -1,7 +1,7 @@
 ---
 title: "Glitch: Nostromo RCE to Root via Dirty Pipe"
 date: 2026-03-31 23:45:00 +0530
-categories: [Linux, Privilege Escalation]
+categories: [Hackviser, Intermediate, Linux, Privilege Escalation]
 tags: [nostromo, rce, dirtypipe, kernel exploit, metasploit, linux, ctf]
 platform: Hackviser
 author: Shivansh Sharma

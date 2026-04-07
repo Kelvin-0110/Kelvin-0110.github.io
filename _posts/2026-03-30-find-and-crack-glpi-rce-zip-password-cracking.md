@@ -1,7 +1,7 @@
 ---
 title: "Find and Crack: GLPI RCE to Root and ZIP Password Cracking"
 date: 2026-03-30 12:30:00 +0530
-categories: [Linux, Privilege Escalation]
+categories: [Hackviser, Intermediate, Linux, Privilege Escalation]
 tags: [glpi, rce, sudo, find, gtfobins, zip, cracking, fcrackzip, linux, ctf]
 platform: Hackviser
 author: Shivansh Sharma

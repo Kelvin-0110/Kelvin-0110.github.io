@@ -1,7 +1,7 @@
 ---
 title: "Super Process: Supervisor RCE to Root via SUID Python"
 date: 2026-03-31 12:30:00 +0530
-categories: [Linux, Privilege Escalation]
+categories: [Hackviser, Intermediate, Linux, Privilege Escalation]
 tags: [supervisor, rce, metasploit, suid, gtfobins, linux, ctf]
 platform: Hackviser
 author: Shivansh Sharma
