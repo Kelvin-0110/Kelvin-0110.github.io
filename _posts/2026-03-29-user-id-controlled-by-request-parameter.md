@@ -1,8 +1,8 @@
 ---
-title: "User ID Controlled by Request Parameter with Unpredictable IDs"
+title: "IDOR – Unauthorized Access via Predictable Identifier Manipulation | User ID Controlled by Request Parameter"
 date: 2026-03-29 13:00:00 +0530
-categories: [PortSwigger, Access Control]
-tags: [idor, access-control, privilege-escalation, guid]
+categories: [Web Security, Access Control]
+tags: [idor, broken-access-control, predictable-identifiers, guid, privilege-escalation, portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
 image:

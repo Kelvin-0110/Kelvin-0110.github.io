@@ -1,12 +1,12 @@
 ---
-title: "Broken Access Control: Privilege Escalation via Client-Controlled Cookie"
+title: "Broken Access Control – Privilege Escalation via Client-Controlled Cookie | Privilege Escalation via Client-Controlled Cookie"
 date: 2026-03-28 06:00:00 +0530
-categories: [PortSwigger, Access Control]
-tags: [access-control, privilege-escalation, cookies]
+categories: [Web Security, Access Control]
+tags: [broken-access-control, privilege-escalation, cookie-manipulation, authorization-bypass, portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/broken-access-control.webp 
+  path: /assets/images/posts/broken-access-control.webp
   alt: Admin Panel Access via Cookie Manipulation
 ---
 

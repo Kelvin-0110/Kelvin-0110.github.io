@@ -1,13 +1,13 @@
 ---
-title: "Super Process: Supervisor RCE to Root via SUID Python"
+title: "Remote Code Execution – Supervisor Exploit to Root via SUID Python | Super Process"
 date: 2026-03-31 12:30:00 +0530
-categories: [Hackviser, Intermediate, Linux, Privilege Escalation]
-tags: [supervisor, rce, metasploit, suid, gtfobins, linux, ctf]
+categories: [Web Security, Exploitation]
+tags: [remote-code-execution, rce, supervisor, suid, privilege-escalation, gtfobins, linux, metasploit, ctf, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image:
-    path: /assets/images/posts/linux.webp
-    alt: "Supervisor RCE Exploitation" 
+  path: /assets/images/posts/linux.webp
+  alt: "Supervisor RCE Exploitation"
 ---
 
 ## Overview

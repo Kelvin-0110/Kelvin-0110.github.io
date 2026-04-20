@@ -1,8 +1,8 @@
 ---
-title: "File Path Traversal: Simple Case"
+title: "Path Traversal – Unauthorized File Access via Directory Traversal | Simple Case"
 date: 2026-03-29 14:00:00 +0530
-categories: [PortSwigger, Path Traversal]
-tags: [path-traversal, lfi, file-inclusion]
+categories: [Web Security, File Handling]
+tags: [path-traversal, directory-traversal, local-file-inclusion, lfi, unauthorized-file-access, portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
 image:

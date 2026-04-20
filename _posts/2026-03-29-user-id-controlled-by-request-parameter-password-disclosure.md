@@ -1,8 +1,8 @@
 ---
-title: "User ID Controlled by Request Parameter with Password Disclosure"
+title: "IDOR – Password Disclosure via Insecure Direct Object Reference | User ID Controlled by Request Parameter"
 date: 2026-03-29 13:30:00 +0530
-categories: [PortSwigger, Access Control]
-tags: [idor, access-control, password-disclosure]
+categories: [Web Security, Access Control]
+tags: [idor, broken-access-control, password-disclosure, sensitive-data-exposure, portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
 image:

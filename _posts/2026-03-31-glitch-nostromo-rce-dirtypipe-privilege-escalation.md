@@ -1,8 +1,8 @@
 ---
-title: "Glitch: Nostromo RCE to Root via Dirty Pipe"
+title: "Remote Code Execution – Nostromo Exploit to Root via Dirty Pipe | Glitch"
 date: 2026-03-31 23:45:00 +0530
-categories: [Hackviser, Intermediate, Privilege Escalation]
-tags: [nostromo, rce, dirtypipe, kernel exploit, metasploit, linux, ctf]
+categories: [Web Security, Exploitation]
+tags: [remote-code-execution, rce, nostromo, dirty-pipe, privilege-escalation, kernel-exploit, linux, ctf, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image: { path: /assets/images/posts/linux-1.webp, alt: "Nostromo Exploitation" }

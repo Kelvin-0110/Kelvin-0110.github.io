@@ -1,10 +1,10 @@
 ---
-title: "Net Sec Challenge"
+title: "Weak Authentication – FTP Brute Force Leading to Unauthorized Access | Net Sec Challenge"
 date: 2026-03-26 00:00:00 +0530
-categories: [TryHackMe]
-tags: [nmap, hydra, ftp, telnet, enumeration, brute-force]
+categories: [Network Security, Authentication]
+tags: [weak-authentication, brute-force, ftp, hydra, enumeration, service-enumeration, credential-compromise, linux, tryhackme]
 platform: TryHackMe
-author: Kelvin
+author: Shivansh Sharma
 image:
   path: /assets/images/posts/net-sec.webp
   alt: Net Sec Challenge

@@ -1,8 +1,8 @@
 ---
-title: "Arrow: Telnet Default Credentials → Root Access"
+title: "Default Credentials – Telnet Misconfiguration Leading to Root Access | Arrow"
 date: 2026-03-29 19:00:00 +0530
-categories: [Hackviser, Basic]
-tags: [telnet, default-credentials, authentication, misconfiguration]
+categories: [Network Security, Misconfiguration]
+tags: [default-credentials, telnet, misconfiguration, authentication-bypass, root-access, linux, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image:

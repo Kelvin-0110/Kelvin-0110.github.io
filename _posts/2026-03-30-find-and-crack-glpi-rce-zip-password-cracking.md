@@ -1,8 +1,8 @@
 ---
-title: "Find and Crack: GLPI RCE to Root and ZIP Password Cracking"
+title: "Remote Code Execution – GLPI Exploit to Root & ZIP Password Cracking | Find and Crack"
 date: 2026-03-30 12:30:00 +0530
-categories: [Hackviser, Intermediate, Privilege Escalation]
-tags: [glpi, rce, sudo, find, gtfobins, zip, cracking, fcrackzip, linux, ctf]
+categories: [Web Security, Exploitation]
+tags: [remote-code-execution, rce, glpi, privilege-escalation, sudo-misconfiguration, gtfobins, zip-password-cracking, fcrackzip, linux, ctf, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image: { path: /assets/images/posts/privilege-escalation.webp, alt: "GLPI Exploitation and Password Cracking" }

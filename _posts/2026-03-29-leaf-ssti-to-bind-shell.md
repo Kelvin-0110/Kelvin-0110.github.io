@@ -1,8 +1,8 @@
 ---
-title: "Leaf: SSTI → Template Engine Identification → Bind Shell → Data Exposure"
+title: "Server-Side Template Injection – Remote Code Execution & Data Exposure | Leaf"
 date: 2026-03-29 23:50:00 +0530
-categories: [Hackviser, Easy]
-tags: [ssti, twig, rce, bind-shell, web-exploitation]
+categories: [Web Security, Injection]
+tags: [ssti, server-side-template-injection, twig, remote-code-execution, rce, bind-shell, data-exposure, web-exploitation, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image:

@@ -1,8 +1,8 @@
 ---
-title: Unprotected Admin Functionality
+title: "Broken Access Control – Unprotected Admin Functionality Leading to Privilege Escalation | Unprotected Admin Functionality"
 date: 2026-03-28 04:30:00 +0530
-categories: [PortSwigger, Access Control]
-tags: [access-control, auth-bypass, admin-panel]
+categories: [Web Security, Access Control]
+tags: [broken-access-control, authorization-bypass, admin-panel, privilege-escalation, portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
 image:

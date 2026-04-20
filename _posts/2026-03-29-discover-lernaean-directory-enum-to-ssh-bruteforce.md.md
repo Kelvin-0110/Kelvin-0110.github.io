@@ -1,8 +1,8 @@
 ---
-title: "Discover Lernaean: Directory Enumeration → File Manager Access → SSH Brute Force"
+title: "Weak Authentication – SSH Brute Force Leading to Unauthorized Access | Discover Lernaean"
 date: 2026-03-29 23:00:00 +0530
-categories: [Hackviser, Easy]
-tags: [gobuster, directory-enumeration, file-manager, brute-force, hydra, ssh]
+categories: [Network Security, Authentication]
+tags: [weak-authentication, ssh, brute-force, hydra, directory-enumeration, file-manager-exposure, unauthorized-access, linux, hackviser]
 platform: Hackviser
 author: Shivansh Sharma
 image:
