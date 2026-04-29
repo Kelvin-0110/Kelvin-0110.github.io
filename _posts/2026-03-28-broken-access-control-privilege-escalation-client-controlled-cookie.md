@@ -5,7 +5,7 @@ categories: [Web Security]
 tags: [broken-access-control, 
   privilege-escalation, 
   cookie-manipulation, 
-  authorization-bypass, .
+  authorization-bypass, 
   portswigger]
 platform: PortSwigger
 author: Shivansh Sharma
