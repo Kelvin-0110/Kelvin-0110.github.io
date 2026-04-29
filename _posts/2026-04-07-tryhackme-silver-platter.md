@@ -1,8 +1,16 @@
 ---
 title: "Broken Access Control – Credential Leakage to Privilege Escalation | Silver Platter"
 date: 2026-04-07 15:30:00 +0530
-categories: [Web Security, Access Control]
-tags: [broken-access-control, credential-leakage, privilege-escalation, linux, silverpeas, enumeration, tryhackme]
+categories: [Penetration Testing]
+tags: [
+  broken-access-control,
+  credential-leakage,
+  privilege-escalation,
+  linux,
+  silverpeas,
+  enumeration,
+  tryhackme
+]
 platform: TryHackMe
 author: Shivansh Sharma
 image: { path: /assets/images/posts/silver-platter.webp, alt: Silver Platter Room }

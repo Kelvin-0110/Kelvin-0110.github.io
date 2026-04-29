@@ -1,8 +1,16 @@
 ---
 title: "Default Credentials – SSH Misconfiguration Leading to Root Access | Secure Command"
 date: 2026-03-29 21:00:00 +0530
-categories: [Network Security, Misconfiguration]
-tags: [default-credentials, ssh, misconfiguration, authentication-bypass, root-access, linux, hackviser]
+categories: [Penetration Testing]
+tags: [
+  default-credentials,
+  ssh,
+  misconfiguration,
+  authentication-bypass,
+  root-access,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

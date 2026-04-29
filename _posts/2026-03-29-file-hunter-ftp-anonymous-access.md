@@ -1,8 +1,16 @@
 ---
 title: "Anonymous Access – FTP Misconfiguration Leading to Credential Disclosure | File Hunter"
 date: 2026-03-29 20:00:00 +0530
-categories: [Network Security, Misconfiguration]
-tags: [anonymous-access, ftp, misconfiguration, credential-disclosure, sensitive-data-exposure, linux, hackviser]
+categories: [Penetration Testing]
+tags: [
+  anonymous-access,
+  ftp,
+  misconfiguration,
+  credential-disclosure,
+  sensitive-data-exposure,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

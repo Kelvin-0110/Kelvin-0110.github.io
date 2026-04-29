@@ -1,8 +1,17 @@
 ---
 title: "Server-Side Template Injection – Remote Code Execution via Twig & Bind Shell | Leaf"
 date: 2026-03-29 12:30:00 +0530
-categories: [Web Security, Injection]
-tags: [ssti, server-side-template-injection, twig, remote-code-execution, bind-shell, netcat, linux, hackviser]
+categories: [Penetration Testing]
+tags: [
+  ssti,
+  server-side-template-injection,
+  twig,
+  remote-code-execution,
+  bind-shell,
+  netcat,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

@@ -1,8 +1,15 @@
 ---
 title: "Broken Access Control – Unprotected Admin Panel via Unpredictable URL Leading to Privilege Escalation | Unprotected Admin Panel"
 date: 2026-03-28 05:10:00 +0530
-categories: [Web Security, Access Control]
-tags: [broken-access-control, authorization-bypass, admin-panel, information-disclosure, privilege-escalation, portswigger]
+categories: [Web Security]
+tags: [
+  broken-access-control,
+  authorization-bypass,
+  admin-panel,
+  information-disclosure,
+  privilege-escalation,
+  portswigger
+]
 platform: PortSwigger
 author: Shivansh Sharma
 image:

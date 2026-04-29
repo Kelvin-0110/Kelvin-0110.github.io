@@ -1,8 +1,18 @@
 ---
 title: "Remote Code Execution – Supervisor Exploit to Root via SUID Python | Super Process"
 date: 2026-03-31 12:30:00 +0530
-categories: [Web Security, Exploitation]
-tags: [remote-code-execution, rce, supervisor, suid, privilege-escalation, gtfobins, linux, metasploit, ctf, hackviser]
+categories: [Penetration Testing]
+tags: [
+  remote-code-execution,
+  supervisor,
+  cve-2017-11610,
+  suid,
+  privilege-escalation,
+  gtfobins,
+  linux,
+  metasploit,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

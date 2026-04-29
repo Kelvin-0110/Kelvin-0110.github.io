@@ -1,8 +1,19 @@
 ---
 title: "Weak Authentication – SSH Brute Force Leading to Unauthorized Access | Discover Lernaean"
 date: 2026-03-29 23:00:00 +0530
-categories: [Network Security, Authentication]
-tags: [weak-authentication, ssh, brute-force, hydra, directory-enumeration, file-manager-exposure, unauthorized-access, linux, hackviser]
+categories: [Penetration Testing]
+tags: [
+  weak-authentication,
+  ssh,
+  brute-force,
+  hydra,
+  directory-enumeration,
+  default-credentials,
+  file-manager-exposure,
+  unauthorized-access,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

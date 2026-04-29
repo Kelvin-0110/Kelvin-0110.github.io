@@ -1,8 +1,16 @@
 ---
 title: "SQL Injection – Authentication Bypass & Privilege Escalation | Simple CTF"
 date: 2026-04-07 22:10:00 +0530
-categories: [Web Security, Injection]
-tags: [sql-injection, authentication-bypass, privilege-escalation, linux, cms-made-simple, cve-2019-9053, tryhackme]
+categories: [Penetration Testing]
+tags: [
+  sql-injection,
+  authentication-bypass,
+  privilege-escalation,
+  linux,
+  cms-made-simple,
+  cve-2019-9053,
+  tryhackme
+]
 platform: TryHackMe
 author: Shivansh Sharma
 image: { path: /assets/images/posts/simple-ctf.webp, alt: Simple CTF Room }

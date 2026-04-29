@@ -1,8 +1,18 @@
 ---
 title: "Local File Inclusion – Log Poisoning to Remote Code Execution | Venomous"
 date: 2026-03-29 13:00:00 +0530
-categories: [Web Security, File Handling]
-tags: [lfi, local-file-inclusion, directory-traversal, log-poisoning, remote-code-execution, nginx, reverse-shell, linux, hackviser]
+categories: [Penetration Testing]
+tags: [
+  lfi,
+  local-file-inclusion,
+  directory-traversal,
+  log-poisoning,
+  remote-code-execution,
+  reverse-shell,
+  nginx,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:

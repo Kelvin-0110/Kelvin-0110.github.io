@@ -1,8 +1,13 @@
 ---
 title: "Broken Access Control – Unauthorized Stats Modification via HTTP Method Manipulation | BugForge"
 date: 2026-04-23 13:30:00 +0530
-categories: [Web Security, Broken Access Control]
-tags: [api, access-control, http-method, put, jwt, bugforge]
+categories: [Web Security]
+tags: [broken-access-control, 
+  api, 
+  http-method, 
+  put, 
+  jwt, 
+  bugforge]
 platform: BugForge
 author: Shivansh Sharma
 image:

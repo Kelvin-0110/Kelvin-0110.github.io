@@ -1,8 +1,11 @@
 ---
 title: "IDOR – Unauthorized Access to Shared Notes via Base64 ID Manipulation | BugForge"
 date: 2026-04-24 1:00:00 +0530
-categories: [Web Security, Broken Access Control]
-tags: [idor, access-control, base64, bugforge, web-security]
+categories: [Web Security]
+tags: [idor, 
+  broken-access-control, 
+  base64, 
+  bugforge]
 platform: BugForge
 author: Shivansh Sharma
 image:

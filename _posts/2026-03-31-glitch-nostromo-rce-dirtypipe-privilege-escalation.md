@@ -1,8 +1,18 @@
 ---
 title: "Remote Code Execution – Nostromo Exploit to Root via Dirty Pipe | Glitch"
 date: 2026-03-31 23:45:00 +0530
-categories: [Web Security, Exploitation]
-tags: [remote-code-execution, rce, nostromo, dirty-pipe, privilege-escalation, kernel-exploit, linux, ctf, hackviser]
+categories: [Penetration Testing]
+tags: [
+  remote-code-execution,
+  nostromo,
+  cve-2019-16278,
+  dirty-pipe,
+  cve-2022-0847,
+  privilege-escalation,
+  kernel-exploit,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image: { path: /assets/images/posts/linux-1.webp, alt: "Nostromo Exploitation" }

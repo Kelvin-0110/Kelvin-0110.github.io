@@ -1,8 +1,15 @@
 ---
 title: "Information Disclosure – Sensitive Data Exposure via Source Code, Headers & Public Files | Hidden in Plain Sight"
 date: 2026-04-11 04:30:00 +0530
-categories: [Web Security, Information Disclosure]
-tags: [information-disclosure, sensitive-data-exposure, source-code, robots-txt, http-headers, security-txt, ctf, cybersplash2026]
+categories: [Web Security]
+tags: [information-disclosure, 
+  sensitive-data-exposure, 
+  source-code, 
+  robots-txt, 
+  http-headers, 
+  security-txt, 
+  ctf, 
+  cybersplash2026]
 platform: SecPlaygrount 
 author: Shivansh Sharma
 image:

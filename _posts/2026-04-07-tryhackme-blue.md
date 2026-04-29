@@ -1,8 +1,17 @@
 ---
 title: "SMB Exploit (MS17-010 EternalBlue) – Remote Code Execution & Privilege Escalation | Blue"
 date: 2026-04-07 22:45:00 +0530
-categories: [Network Security, Exploitation]
-tags: [eternalblue, ms17-010, smb, remote-code-execution, privilege-escalation, windows, metasploit, tryhackme]
+categories: [Penetration Testing]
+tags: [
+  eternalblue,
+  ms17-010,
+  smb,
+  remote-code-execution,
+  privilege-escalation,
+  windows,
+  metasploit,
+  tryhackme
+]
 platform: TryHackMe
 author: Shivansh Sharma
 image: { path: /assets/images/posts/blue.webp, alt: Blue Room }

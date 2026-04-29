@@ -1,8 +1,17 @@
 ---
 title: "Server-Side Template Injection – Remote Code Execution & Data Exposure | Leaf"
 date: 2026-03-29 23:50:00 +0530
-categories: [Web Security, Injection]
-tags: [ssti, server-side-template-injection, twig, remote-code-execution, rce, bind-shell, data-exposure, web-exploitation, hackviser]
+categories: [Penetration Testing]
+tags: [
+  ssti,
+  server-side-template-injection,
+  twig,
+  remote-code-execution,
+  bind-shell,
+  data-exposure,
+  linux,
+  hackviser
+]
 platform: Hackviser
 author: Shivansh Sharma
 image:
