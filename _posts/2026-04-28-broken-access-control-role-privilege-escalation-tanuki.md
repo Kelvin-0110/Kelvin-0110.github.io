@@ -6,7 +6,7 @@ tags: [broken-access-control, privilege-escalation, role-manipulation, burpsuite
 platform: BugForge
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/tanuki-bac.webp
+  path: /assets/images/posts/bac-bugforge.webp
   alt: Broken Access Control in Tanuki
 ---
 
