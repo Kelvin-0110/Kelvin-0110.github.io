@@ -1,7 +1,7 @@
 ---
 title: "Path Traversal – Unauthorized File Access via Directory Traversal | Simple Case"
 date: 2026-03-29 14:00:00 +0530
-categories: [Web Security]
+categories: [Web Security, Local File Inclusion]
 tags: [
   path-traversal,
   directory-traversal,

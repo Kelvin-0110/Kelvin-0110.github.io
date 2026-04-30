@@ -1,7 +1,7 @@
 ---
 title: "File Inclusion – Arbitrary File Read via Image Endpoint | Ottergram"
 date: 2026-04-25 21:52:00 +0530
-categories: [Web Security]
+categories: [Web Security, Local File Inclusion]
 tags: [file-inclusion, lfi, path-traversal, arbitrary-file-read, bugforge, express]
 platform: BugForge
 author: Shivansh Sharma

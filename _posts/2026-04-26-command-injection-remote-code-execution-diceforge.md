@@ -1,7 +1,7 @@
 ---
 title: "Command Injection – Remote Code Execution via rollOptions Parameter | Diceforge"
 date: 2026-04-26 23:24:00 +0530
-categories: [Web Security]
+categories: [Web Security, Command Injection]
 tags: [command-injection, rce, input-validation, bugforge, express, api-testing, backend]
 platform: BugForge
 author: Shivansh Sharma

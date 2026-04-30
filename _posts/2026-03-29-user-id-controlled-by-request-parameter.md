@@ -1,7 +1,7 @@
 ---
 title: "IDOR – Unauthorized Access via Predictable Identifier Manipulation | User ID Controlled by Request Parameter"
 date: 2026-03-29 13:00:00 +0530
-categories: [Web Security]
+categories: [Web Security, IDOR]
 tags: [
   idor,
   broken-access-control,

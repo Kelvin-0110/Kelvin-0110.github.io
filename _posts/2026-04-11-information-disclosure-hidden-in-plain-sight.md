@@ -1,7 +1,7 @@
 ---
 title: "Information Disclosure – Sensitive Data Exposure via Source Code, Headers & Public Files | Hidden in Plain Sight"
 date: 2026-04-11 04:30:00 +0530
-categories: [Web Security]
+categories: [Web Security, Information Disclosuer]
 tags: [information-disclosure, 
   sensitive-data-exposure, 
   source-code, 

@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Unprotected Admin Panel via Unpredictable URL Leading to Privilege Escalation | Unprotected Admin Panel"
 date: 2026-03-28 05:10:00 +0530
-categories: [Web Security]
+categories: [Web Security, Broken Access Control]
 tags: [
   broken-access-control,
   authorization-bypass,

@@ -1,7 +1,7 @@
 ---
 title: "IDOR – Password Disclosure via Insecure Direct Object Reference | User ID Controlled by Request Parameter"
 date: 2026-03-29 13:30:00 +0530
-categories: [Web Security]
+categories: [Web Security, IDOR]
 tags: [
   idor,
   broken-access-control,

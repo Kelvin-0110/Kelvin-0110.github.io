@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Role Manipulation via User Registration | Tanuki"
 date: 2026-04-28 00:00:00 +0530
-categories: [Web Security]
+categories: [Web Security, Broken Access Control]
 tags: [broken-access-control, privilege-escalation, role-manipulation, burpsuite, api-testing, authorization-flaw, bugforge, express]
 platform: BugForge
 author: Shivansh Sharma

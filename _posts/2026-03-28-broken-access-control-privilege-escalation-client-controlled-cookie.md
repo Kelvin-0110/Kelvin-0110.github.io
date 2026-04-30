@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Privilege Escalation via Client-Controlled Cookie | Privilege Escalation via Client-Controlled Cookie"
 date: 2026-03-28 06:00:00 +0530
-categories: [Web Security]
+categories: [Web Security, Broken Access Control]
 tags: [broken-access-control, 
   privilege-escalation, 
   cookie-manipulation, 
