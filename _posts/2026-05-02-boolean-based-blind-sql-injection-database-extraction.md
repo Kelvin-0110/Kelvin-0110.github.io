@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – Database Extraction via Boolean-Based Blind Technique | Stock Check Lab"
 date: 2026-05-02 3:05:00 +0530
-categories: [Web Security, Injection]
+categories: [Web Security, SQL Injection]
 tags: [sql-injection, blind-sqli, boolean-based, mysql, automation, data-extraction]
 platform: Hackviser
 author: Shivansh Sharma
