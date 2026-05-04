@@ -2,7 +2,7 @@
 title: "IDOR – Unauthorized Access to Borrower Records | Overdue"
 date: 2026-05-01 20:00:00 +0530
 categories: [Web Security, Broken Access Control]
-tags: [idor, access-control, authorization, data-exposure, webverse, insecure-direct-object-reference]
+tags: [idor, access-control, authorization, data-exposure, webverse, insecure-direct-object-reference, webverse]
 platform: Webverse
 author: Shivansh Sharma
 image:

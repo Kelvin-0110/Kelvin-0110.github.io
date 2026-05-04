@@ -2,7 +2,7 @@
 title: "Local File Inclusion – Arbitrary File Read Leading to Flag Disclosure | Corridor"
 date: 2026-05-01 16:00:00 +0530
 categories: [Web Security, File Inclusion]
-tags: [lfi, path-traversal, arbitrary-file-read, webverse, file-inclusion, information-disclosure]
+tags: [lfi, path-traversal, arbitrary-file-read, webverse, file-inclusion, information-disclosure, webverse]
 platform: Webverse
 author: Shivansh Sharma
 image:

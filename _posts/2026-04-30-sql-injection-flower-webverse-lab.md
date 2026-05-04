@@ -1,8 +1,8 @@
 ---
-title: "SQL Injection – Full Database Extraction via Search Function | Flower Webverse Lab"
+title: "SQL Injection – Full Database Extraction via Search Function | Flower"
 date: 2026-04-30 00:00:00 +0530
 categories: [Web Security, SQL Injection]
-tags: [sql-injection, union-based-sqli, information-disclosure, database-enumeration, webverse-lab]
+tags: [sql-injection, union-based-sqli, information-disclosure, database-enumeration, webverse]
 platform: Webverse
 author: Shivansh Sharma
 image:
