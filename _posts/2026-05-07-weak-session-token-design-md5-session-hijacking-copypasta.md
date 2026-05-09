@@ -1,8 +1,8 @@
 ---
 title: "Weak Session Token Design – Predictable MD5-Based Session Hijacking | CopyPasta"
 date: 2026-05-07 00:00:00 +0530
-categories: [Web Security]
-tags: [Session Hijacking, Weak Session Management, MD5, Base64, Authentication, Cookie Security, Hashcat, BugForge]
+categories: [Web Security, Insecure Design]
+tags: [session hijacking, weak session management, md5, base64, authentication, cookie security, hashcat, bugforge]
 platform: BugForge
 author: Shivansh Sharma
 image:
