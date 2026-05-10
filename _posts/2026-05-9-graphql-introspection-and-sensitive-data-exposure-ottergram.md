@@ -1,12 +1,12 @@
 ---
 title: "GraphQL Introspection and Sensitive Data Exposure | Ottergram"
-date: 2026-05-10 03:45:00 +0530
-categories: [Web Security]
+date: 2026-05-9 03:45:00 +0530
+categories: [Web Security, Information Disclosure]
 tags: [graphql, introspection, information-disclosure, api-security, sensitive-data-exposure, bugforge]
 platform: BugForge
 author: Shivansh Sharma
 image:
-  path: /assets/imaesg/posts/ottergram-graphql.webp
+  path: /assets/images/posts/ottergram-graphql.webp
   alt: GraphQL Introspection and Sensitive Data Exposure in Ottergram
 ---
 
