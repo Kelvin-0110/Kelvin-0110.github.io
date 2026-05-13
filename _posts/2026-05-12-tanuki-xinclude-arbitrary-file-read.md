@@ -1,7 +1,7 @@
 ---
 title: "XInclude Injection to Arbitrary File Read | Tanuki"
 date: 2026-05-12 11:45:00 +0530
-categories: [Web Security, File Upload]
+categories: [Web Security, XXE]
 tags: [xxe, xinclude, xml, arbitrary-file-read, file-disclosure, api-security, bugforge]
 platform: BugForge
 author: Shivansh Sharma

@@ -1,7 +1,7 @@
 ---
 title: "XML External Entity (XXE) via Deck Import Feature | Tanuki"
 date: 2026-05-06 00:00:00 +0530
-categories: [Web Security, File Upload]
+categories: [Web Security, XXE]
 tags: [xxe, xml, file-read, insecure-parser, bugforge, api-testing, content-type-bypass]
 platform: BugForge
 author: Shivansh Sharma
