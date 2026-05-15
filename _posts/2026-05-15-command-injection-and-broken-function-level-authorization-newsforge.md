@@ -1,6 +1,6 @@
 ---
 title: "Command Injection & Broken Function Level Authorization | NewsForge"
-date: 2026-05-15 12:40:00 +0530
+date: 2026-05-15 10:40:00 +0530
 categories: [Web Security, Command Injection]
 tags: [command-injection, bfla, idor, authorization, nodejs, burp-suite, webversepro]
 author: Shivansh Sharma
