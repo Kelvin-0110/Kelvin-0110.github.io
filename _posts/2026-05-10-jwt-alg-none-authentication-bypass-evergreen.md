@@ -18,6 +18,10 @@ Analysis of the JWT implementation revealed that the backend accepted tokens usi
 
 The vulnerability resulted in a complete authentication bypass and unauthorized access to the admin dashboard.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/evergreen)
+
 ---
 
 ## Objective

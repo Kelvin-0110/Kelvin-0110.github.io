@@ -15,6 +15,10 @@ This lab involves a vulnerable e-commerce application named **Flower**, where a 
 
 The issue stems from improper handling of user input, where search terms are directly embedded into SQL queries without sanitization or parameterization.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/flower)
+
 ---
 
 ## Objective

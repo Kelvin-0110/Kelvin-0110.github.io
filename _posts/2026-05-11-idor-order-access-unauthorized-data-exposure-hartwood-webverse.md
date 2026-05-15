@@ -1,5 +1,5 @@
 ---
-title: "IDOR in Order Access – Unauthorized Order Data Exposure | Hartwood & Co. Webverse Lab"
+title: "IDOR in Order Access – Unauthorized Order Data Exposure | Hartwood "
 date: 2026-05-11 01:00:00 +0530
 categories: [Web Security, IDOR]
 tags: [idor, access-control, authorization, burp-suite, api-security, webverse, brute-force, webversepro]
@@ -15,6 +15,10 @@ image:
 This lab is based on a fictional e-commerce platform, Hartwood & Co., which sells pet-related products. The application was rushed into production, and a test order was accidentally left in the live database.
 
 The issue revolves around weak authorization checks on order resources, allowing direct access to other users' order details by manipulating the `orderid` parameter.
+
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/hartwood-and-co)
 
 ---
 

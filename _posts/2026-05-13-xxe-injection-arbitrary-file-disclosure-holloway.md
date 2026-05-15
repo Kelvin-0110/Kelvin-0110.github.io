@@ -16,6 +16,10 @@ This lab demonstrates an XML External Entity (XXE) vulnerability in a client por
 
 The issue appears in a reconciliation import feature where uploaded OFX files are parsed server-side.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/holloway)
+
 ---
 
 ## Objective

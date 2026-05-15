@@ -20,6 +20,10 @@ After recovering the signing secret, it was possible to forge arbitrary JWTs and
 
 The forged administrator token exposed restricted API endpoints containing sensitive client export data and the lab flag.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/tally)
+
 ---
 
 ## Objective

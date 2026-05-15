@@ -16,6 +16,10 @@ The **Corridor** challenge from Webverse simulates a literary magazine website c
 
 By leveraging this flaw, it becomes possible to read internal files, uncover sensitive developer notes, and ultimately retrieve the flag.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/corridor)
+
 ---
 
 ## Objective

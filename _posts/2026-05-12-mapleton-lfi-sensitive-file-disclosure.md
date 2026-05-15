@@ -15,6 +15,9 @@ image:
 MapleTon is a vulnerable real-estate listing application where property pages are dynamically loaded using a user-controlled parameter. The application fails to properly validate file paths, resulting in a classic Local File Inclusion (LFI) vulnerability.
 
 During testing, the `listing` parameter was found to directly include local files from the server filesystem. By exploiting directory traversal sequences, it became possible to read arbitrary files on the target system, eventually leading to disclosure of the flag stored in the realtor user's home directory.
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/mapleton)
 
 ---
 

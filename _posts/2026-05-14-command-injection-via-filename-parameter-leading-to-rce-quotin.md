@@ -20,6 +20,10 @@ During testing, the upload functionality exposed unsafe backend handling of user
 
 This ultimately resulted in remote code execution and an interactive reverse shell on the target machine.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/quotin)
+
 ---
 
 ## Objective

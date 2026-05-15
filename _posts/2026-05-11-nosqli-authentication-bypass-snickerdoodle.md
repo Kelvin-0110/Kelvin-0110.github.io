@@ -20,6 +20,10 @@ During reconnaissance, an exposed admin login page revealed an insecure authenti
 
 Inside the dashboard, the application exposed the final lab flag.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/snickerdoodle)
+
 ---
 
 ## Objective

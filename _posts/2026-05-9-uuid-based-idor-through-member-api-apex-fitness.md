@@ -1,5 +1,5 @@
 ---
-title: "UUID-Based IDOR Through Member API | Apex Fitness"
+title: "UUID-Based IDOR Through Member API | Apex"
 date: 2026-05-9 03:20:00 +0530
 categories: [Web Security, IDOR]
 tags: [idor, uuid, api, authorization, information-disclosure, webversepro]
@@ -33,6 +33,10 @@ the application used UUIDs:
 While UUIDs reduce identifier predictability, they do not enforce authorization. If a valid UUID becomes exposed and backend authorization checks are missing, the application remains vulnerable to IDOR.
 
 This lab demonstrates how exposed UUIDs combined with insecure API design allowed unauthorized access to privileged member resources.
+
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/apex)
 
 ---
 

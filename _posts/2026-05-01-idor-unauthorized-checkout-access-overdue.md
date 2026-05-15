@@ -16,6 +16,10 @@ This lab demonstrates an **Insecure Direct Object Reference (IDOR)** vulnerabili
 
 The issue allows an attacker to access other users' checkout records simply by modifying a numeric identifier in the URL, resulting in unauthorized data exposure.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/overdue)
+
 ---
 
 ## Objective

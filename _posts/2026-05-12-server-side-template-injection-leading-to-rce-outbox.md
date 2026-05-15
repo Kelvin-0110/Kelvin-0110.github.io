@@ -18,6 +18,10 @@ The application implemented custom placeholder rendering functionality to suppor
 
 By abusing the template rendering logic, it was possible to achieve Server-Side Template Injection (SSTI), leading to arbitrary PHP function execution, file disclosure, command execution, and ultimately full remote code execution on the target system.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/outbox)
+
 ---
 
 ## Objective

@@ -24,6 +24,10 @@ By exploiting the Server-Side Template Injection (SSTI) vulnerability, it was po
 
 Exploit the SSTI vulnerability in the enrollment form to gain remote code execution and retrieve the flag from the server.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/mystery-challenges/sunnyside)
+
 ---
 
 ## Reconnaissance

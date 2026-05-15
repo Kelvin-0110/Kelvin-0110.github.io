@@ -20,6 +20,10 @@ By adding a hidden `role` parameter during registration, it was possible to crea
 
 This resulted in unauthorized access to internal administrative boards containing sensitive founder-only information and the lab flag.
 
+## Lab Link
+
+- Lab: [DocketHive – WebVerse](https://dashboard.webverselabs-pro.com/foundational-labs/trellis)
+
 ---
 
 ## Objective
