@@ -1,7 +1,7 @@
 ---
 title: "Local File Inclusion via PHP Stream Wrappers | DocketHive"
 date: 2026-05-15 02:05:00 +0530
-categories: [web security, Local File Inclusion]
+categories: [Web Security, Local File Inclusion]
 tags: [lfi, php, php-stream-wrapper, file-inclusion, path-traversal, burp-suite, webversepro]
 author: Shivansh Sharma
 platform: WebVerse Labs
