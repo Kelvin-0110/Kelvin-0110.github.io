@@ -20,7 +20,7 @@ The vulnerability ultimately exposed an internal registrar archive entry contain
 
 ## Lab Link
 
-- Lab: [Slate Quarry – WebVerse Labs](https://dashboard.webverselabs-pro.com/mystery-challenges/saint-croix)
+- Lab: [Saint Croix University](https://dashboard.webverselabs-pro.com/mystery-challenges/saint-croix)
 
 ---
 
