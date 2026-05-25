@@ -1,7 +1,7 @@
 ---
 title: "Remote Code Execution – GLPI Exploit to Root & ZIP Password Cracking | Find and Crack"
 date: 2026-03-30 12:30:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Web Application Exploitation]
 tags: [
   remote-code-execution,
   glpi,

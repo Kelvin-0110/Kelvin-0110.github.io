@@ -1,7 +1,7 @@
 ---
 title: "Weak Authentication – FTP Brute Force Leading to Unauthorized Access | Net Sec Challenge"
 date: 2026-03-26 00:00:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Web Application Exploitation]
 tags: [weak-authentication, brute-force, ftp, hydra, enumeration, service-enumeration, credential-compromise, linux, tryhackme, nmap, ids-evasion]
 platform: TryHackMe
 author: Shivansh Sharma

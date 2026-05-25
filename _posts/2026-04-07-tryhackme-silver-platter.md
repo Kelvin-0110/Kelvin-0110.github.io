@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Credential Leakage to Privilege Escalation | Silver Platter"
 date: 2026-04-07 15:30:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Linux Privilege Escalation]
 tags: [
   broken-access-control,
   credential-leakage,

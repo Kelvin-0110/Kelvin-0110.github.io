@@ -1,7 +1,7 @@
 ---
 title: "Server-Side Template Injection – Remote Code Execution & Data Exposure | Leaf"
 date: 2026-03-29 23:50:00 +0530
-categories: [Penetration Testing]
+categories: [A05 - Injection, SSTI]
 tags: [
   ssti,
   server-side-template-injection,

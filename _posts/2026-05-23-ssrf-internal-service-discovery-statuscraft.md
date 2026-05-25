@@ -1,7 +1,7 @@
 ---
 title: "SSRF – Internal Service Discovery Through Monitor Preview Feature | Statuscraft"
 date: 2026-05-23 00:20:00 +0530
-categories: [Web Security, SSRF]
+categories: [A01 - Broken Access Control, SSRF]
 tags: [ssrf, internal-service-discovery, localhost-access, port-scanning, network-enumeration, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

@@ -1,7 +1,7 @@
 ---
 title: "OTP Bypass & Brute Force – Admin Account Takeover via Password Reset | Cheesy Does it"
 date: 2026-05-05 16:10:00 +0530
-categories: [Web Security, Broken Authentication]
+categories: [A07 - Authentication Failures, OTP Authentication]
 tags: [otp-bypass, brute-force, broken-authentication, account-takeover, logic-flaw]
 platform: BugForge
 author: Shivansh Sharma

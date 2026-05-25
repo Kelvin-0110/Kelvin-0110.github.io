@@ -1,7 +1,7 @@
 ---
 title: "File Extension Blacklist Bypass – Unrestricted Upload to RCE | Hackviser Lab"
 date: 2026-05-04 22:30:00 +0530
-categories: [Web Security, Unrestricted File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, blacklist-bypass, phar, rce, sensitive-data-exposure]
 platform: Hackviser
 author: Shivansh Sharma

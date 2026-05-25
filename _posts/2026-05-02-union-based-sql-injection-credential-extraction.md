@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – Credential Extraction via UNION Attack | Search Functionality Lab"
 date: 2026-05-02 2:10:00 +0530
-categories: [Web Security, SQL Injection]
+categories: [A05 - Injection, SQL Injection]
 tags: [sql-injection, union-based, database-enumeration, mysql, authentication-bypass]
 platform: BugForge
 author: Shivansh Sharma

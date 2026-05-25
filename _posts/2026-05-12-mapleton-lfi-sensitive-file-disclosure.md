@@ -1,7 +1,7 @@
 ---
 title: "Local File Inclusion (LFI) to Sensitive File Disclosure | Mapleton"
 date: 2026-05-12 11:20:00 +0530
-categories: [Web Security, Local File Inclusion]
+categories: [A02 - Security Misconfiguration, Local File Inclusion]
 tags: [lfi, local-file-inclusion, path-traversal, php, file-disclosure, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

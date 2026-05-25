@@ -1,7 +1,7 @@
 ---
 title: "Jinja2 SSTI to Remote Code Execution | SunnySide"
 date: 2026-05-08 03:10:00 +0530
-categories: [Web Security, SSTI]
+categories: [A05 - Injection, SSTI]
 tags: [ssti, jinja2, flask, python, rce, server-side-template-injection, command-execution, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

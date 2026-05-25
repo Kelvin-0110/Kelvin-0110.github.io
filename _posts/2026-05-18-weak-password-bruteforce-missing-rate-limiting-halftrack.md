@@ -1,7 +1,7 @@
 ---
 title: "Weak Credentials – Authentication Compromise via Password Brute Force | Halftrack Model Railroad Club"
 date: 2026-05-18 02:30:00 +0530
-categories: [Web Security, Identification and Authentication Failures]
+categories: [A07 - Authentication Failures, Password Brute Force]
 tags: [bruteforce, weak-passwords, authentication, missing-rate-limit, credential-attack, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

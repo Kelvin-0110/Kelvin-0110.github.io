@@ -1,7 +1,7 @@
 ---
 title: "Sensitive Information Disclosure – Secrets Exposed in Base64 Session Cookie | Cookie Cutter"
 date: 2026-05-20 00:45:00 +0530
-categories: [Web Security, Insecure Design]
+categories: [A04 - Cryptographic Failures, Sensitive Information Disclosure]
 tags: [sensitive-data-exposure, insecure-design, information-disclosure, cookies, base64, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

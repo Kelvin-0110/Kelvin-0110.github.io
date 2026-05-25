@@ -1,7 +1,7 @@
 ---
 title: "Local File Inclusion – Log Poisoning to Remote Code Execution | Venomous"
 date: 2026-03-29 13:00:00 +0530
-categories: [Penetration Testing]
+categories: [A02 - Security Misconfiguration, Local File Inclusion]
 tags: [
   lfi,
   local-file-inclusion,

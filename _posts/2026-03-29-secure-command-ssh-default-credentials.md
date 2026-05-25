@@ -1,7 +1,7 @@
 ---
 title: "Default Credentials – SSH Misconfiguration Leading to Root Access | Secure Command"
 date: 2026-03-29 21:00:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Linux priviledge escalation]
 tags: [
   default-credentials,
   ssh,

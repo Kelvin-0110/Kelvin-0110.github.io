@@ -1,7 +1,7 @@
 ---
 title: "File Signature Bypass – Polyglot File Upload to RCE | Hackviser Lab"
 date: 2026-05-04 22:00:00 +0530
-categories: [Web Security, Unrestricted File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, file-signature-bypass, polyglot-file, rce, sensitive-data-exposure]
 platform: Hackviser
 author: Shivansh Sharma

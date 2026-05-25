@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – UNION-Based Credential Extraction via Profile API | Ottergram"
 date: 2026-05-02 20:00:00 +0530
-categories: [Web Security, SQL Injection]
+categories: [A05 - Injection, SQL Injection]
 tags: [sqli, union-based, sqlite, api-testing, burp-suite, authentication-bypass, data-exfiltration]
 platform: Ottergram
 author: Shivansh Sharma

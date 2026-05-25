@@ -1,7 +1,7 @@
 ---
 title: "LDAP Injection – Hidden Registrar Archive Disclosure | Saint Croix University"
 date: 2026-05-15 16:15:00 +0530
-categories: [Web Security, LDAP]
+categories: [A05 - Injection, LDAP Injection]
 tags: [ldap-injection, express, openldap, injection, information-disclosure, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

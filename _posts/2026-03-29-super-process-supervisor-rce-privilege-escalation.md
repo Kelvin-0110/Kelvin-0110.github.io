@@ -1,7 +1,7 @@
 ---
 title: "Remote Code Execution – Supervisor Exploit to Root via SUID Python | Super Process"
 date: 2026-03-31 12:30:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, CVE-2017-11610 (Supervisor XML-RPC RCE)]
 tags: [
   remote-code-execution,
   supervisor,

@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Unauthorized Stats Modification via HTTP Method Manipulation | BugForge"
 date: 2026-04-23 13:30:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, Authorization Bypass]
 tags: [broken-access-control, 
   api, 
   http-method, 

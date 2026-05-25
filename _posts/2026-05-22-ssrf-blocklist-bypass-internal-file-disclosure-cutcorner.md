@@ -1,7 +1,7 @@
 ---
 title: "SSRF Blocklist Bypass – Internal File Disclosure via Localhost Filtering Evasion | CutCorner"
 date: 2026-05-22 22:40:00 +0530
-categories: [Web Security, SSRF]
+categories: [A01 - Broken Access Control, SSRF]
 tags: [ssrf, blocklist-bypass, localhost-bypass, internal-service-discovery, file-disclosure, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

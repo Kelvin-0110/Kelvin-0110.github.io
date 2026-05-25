@@ -1,7 +1,7 @@
 ---
 title: "Unrestricted File Upload – Remote Code Execution via PHP Extension Bypass | Crosswind"
 date: 2026-05-18 01:35:00 +0530
-categories: [Web Security, File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, unrestricted-upload, rce, php, extension-bypass, webshell, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

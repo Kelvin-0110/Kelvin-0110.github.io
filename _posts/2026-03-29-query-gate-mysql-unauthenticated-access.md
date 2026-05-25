@@ -1,7 +1,7 @@
 ---
 title: "Unauthenticated Access – MySQL Misconfiguration Leading to Data Exposure | Query Gate"
 date: 2026-03-29 22:00:00 +0530
-categories: [Penetration Testing] 
+categories: [Penetration Testing, Web Application Exploitation]
 tags: [
   unauthenticated-access,
   mysql,

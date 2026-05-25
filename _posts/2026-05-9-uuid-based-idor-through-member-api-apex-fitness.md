@@ -1,7 +1,7 @@
 ---
 title: "UUID-Based IDOR Through Member API | Apex"
 date: 2026-05-9 03:20:00 +0530
-categories: [Web Security, IDOR]
+categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, uuid, api, authorization, information-disclosure, webversepro]
 platform: WebVerse Labs
 author: Shivansh Sharma

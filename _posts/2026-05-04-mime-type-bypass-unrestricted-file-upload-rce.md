@@ -1,7 +1,7 @@
 ---
 title: "MIME Type Filter Bypass – Unrestricted File Upload to RCE | Hackviser Lab"
 date: 2026-05-04 21:30:00 +0530
-categories: [Web Security, Unrestricted File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, mime-type-bypass, rce, php, sensitive-data-exposure]
 platform: Hackviser
 author: Shivansh Sharma

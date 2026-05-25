@@ -1,7 +1,7 @@
 ---
 title: "Predictable Time-Based Auth Token Leading to Authentication Bypass | Sokudo"
 date: 2026-05-8 04:35:00 +0530
-categories: [Web Security, Broken Authentication]
+categories: [A07 - Authentication Failures, JWT]
 tags: [authentication-bypass, weak-authentication, predictable-token, local-storage, bugforge]
 platform: BugForge
 author: Shivansh Sharma

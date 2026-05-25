@@ -1,7 +1,7 @@
 ---
 title: "Client-Side Price Manipulation – Discount Abuse via Cookie Tampering | Snooker"
 date: 2026-05-19 21:10:00 +0530
-categories: [Web Security, Insecure Design]
+categories: [A06 - Insecure Design, Business Logic Abuse]
 tags: [business-logic, price-manipulation, client-side-validation, cookie-tampering, privilege-bypass, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

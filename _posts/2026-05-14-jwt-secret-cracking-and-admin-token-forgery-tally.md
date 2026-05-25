@@ -1,7 +1,7 @@
 ---
 title: "JWT Secret Cracking & Privilege Escalation via Forged Tokens | Tally"
 date: 2026-05-14 08:30:00 +0530
-categories: [Web Security, Broken Authentication]
+categories: [A07 - Authentication Failures, JWT]
 tags: [jwt, authentication, broken authentication, weak secret, hashcat, privilege escalation, api security, ffuf, webversepro]
 platform: Webverse
 author: Shivansh Sharma

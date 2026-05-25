@@ -1,7 +1,7 @@
 ---
 title: "IDOR in Order Access – Unauthorized Order Data Exposure | Hartwood "
 date: 2026-05-11 01:00:00 +0530
-categories: [Web Security, IDOR]
+categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, access-control, authorization, burp-suite, api-security, webverse, brute-force, webversepro]
 platform: Webverse
 author: Shivansh Sharma

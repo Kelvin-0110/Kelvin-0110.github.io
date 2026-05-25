@@ -1,7 +1,7 @@
 ---
 title: "Broken Access Control – Admin Access Token Brute Force Leads to Unauthorized Admin Access | Gift List"
 date: 2026-04-30 00:00:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, Broken Access Control]
 tags: [broken-access-control, authentication-bypass, token-bruteforce, jwt, ffuf, gobuster, authorization-bypass, bugforge]
 platform: BugForge
 author: Shivansh Sharma

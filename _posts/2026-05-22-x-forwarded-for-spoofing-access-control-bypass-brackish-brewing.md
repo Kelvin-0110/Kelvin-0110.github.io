@@ -1,7 +1,7 @@
 ---
 title: "X-Forwarded-For Spoofing – Internal Staff Portal Access Control Bypass | Brackish Brewing Co."
 date: 2026-05-22 23:45:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, Access Control Bypass]
 tags: [broken-access-control, x-forwarded-for, header-spoofing, trust-boundary, proxy-misconfiguration, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

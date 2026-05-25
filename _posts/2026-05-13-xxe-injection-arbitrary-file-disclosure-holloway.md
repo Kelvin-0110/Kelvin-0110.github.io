@@ -1,7 +1,7 @@
 ---
 title: "XXE Injection – Arbitrary File Disclosure via XML Import | Holloway"
 date: 2026-05-13 15:46:00 +0530
-categories: [Web Security, XXE]
+categories: [A02 - Security Misconfiguration, XXE]
 tags: [xxe, xml-external-entity, file-read, webversepro, file-disclosure, php]
 platform: WebVerse 
 author: Shivansh Sharma

@@ -1,7 +1,7 @@
 ---
 title: "NoSQL Injection Authentication Bypass – Admin Panel Access | SnickerDoodle"
 date: 2026-05-11 14:25:00 +0530
-categories: [Web Security, NoSQL Injection]
+categories: [A05 - Injection, NoSQL Injection]
 tags: [nosql-injection, mongodb, authentication-bypass, expressjs, json-injection, webversepro, session-hijacking]
 platform: WebVerse
 author: Shivansh Sharma

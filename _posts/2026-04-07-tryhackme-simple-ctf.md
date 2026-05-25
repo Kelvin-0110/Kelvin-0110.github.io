@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – Authentication Bypass & Privilege Escalation | Simple CTF"
 date: 2026-04-07 22:10:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, CVE-2019-9053 (CMS Made Simple SQL Injection)]
 tags: [
   sql-injection,
   authentication-bypass,

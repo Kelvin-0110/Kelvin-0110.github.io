@@ -1,7 +1,7 @@
 ---
 title: "Broken Authentication – Predictable Timestamp Token Leads to Admin Account Takeover | Sokudo"
 date: 2026-05-01 16:00:00 +0530
-categories: [Web Security, Broken Authentication]
+categories: [A07 - Authentication Failures, Broken Authentication]
 tags: [authentication, token, predictable, account-takeover, api, bugforge]
 platform: BugForge
 author: Shivansh Sharma

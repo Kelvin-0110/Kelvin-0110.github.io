@@ -1,7 +1,7 @@
 ---
 title: "Stored XSS – Internal Endpoint Enumeration Through Comment Injection | Crate & Sleeve"
 date: 2026-05-18 01:10:00 +0530
-categories: [Web Security, XSS]
+categories: [A05 - Injection, Stored Cross-Site Scripting]
 tags: [xss, stored-xss, endpoint-enumeration, javascript-injection, webversepro]
 platform: WebVerse
 author: Shivansh Sharma
@@ -32,7 +32,7 @@ Abuse comment functionality to execute JavaScript and enumerate internal applica
 
 ```text
 OWASP Category
-└── A03: Injection
+└── A05: Injection
     └── Cross-Site Scripting (XSS)
         └── Stored XSS
             └── Unsanitized User Input Rendered in Comments

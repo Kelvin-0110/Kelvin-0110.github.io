@@ -1,7 +1,7 @@
 ---
 title: "Remote Code Execution – Nostromo Exploit to Root via Dirty Pipe | Glitch"
 date: 2026-03-31 23:45:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, CVE-2019-16278 (Nostromo RCE)]
 tags: [
   remote-code-execution,
   nostromo,

@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – Secret Extraction from Internal Logs Console | Vibed"
 date: 2026-05-21 22:05:00 +0530
-categories: [Web Security, SQL Injection]
+categories: [A05 - Injection, SQL Injection]
 tags: [sqli, union-based-sqli, sqlite, sensitive-data-exposure, database-enumeration, webversepro]
 platform: WebVerse
 author: Shivansh Sharma
@@ -32,7 +32,7 @@ Exploit the vulnerable logs filter to extract the platform bootstrap token and o
 
 ```text
 OWASP Category
-└── A03: Injection
+└── A05: Injection
     └── SQL Injection
         └── UNION-Based SQL Injection
             └── Unsanitized User Input in SQL Query

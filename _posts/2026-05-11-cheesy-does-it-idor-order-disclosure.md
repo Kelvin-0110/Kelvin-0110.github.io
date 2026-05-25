@@ -1,7 +1,7 @@
 ---
 title: "IDOR via Sequential Order IDs | Cheesy Does It"
 date: 2026-05-11 12:05:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, broken-access-control, authorization-bypass, api-security, horizontal-privilege-escalation, bugforge]
 platform: BugForge
 author: Shivansh Sharma

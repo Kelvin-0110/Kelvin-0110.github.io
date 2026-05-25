@@ -1,7 +1,7 @@
 ---
 title: "GraphQL BOLA via Introspection & Insecure Resolver Access | Slate Quarry"
 date: 2026-05-15 11:15:00 +0530
-categories: [Web Security, Graphql]
+categories: [A01 - Broken Access Control, BOLA]
 tags: [graphql, bola, idor, authorization, introspection, api-security, webversepro]
 author: Shivansh Sharma
 platform: WebVerse 

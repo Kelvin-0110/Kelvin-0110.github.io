@@ -1,7 +1,7 @@
 ---
 title: "Predictable Token Enumeration – Gift Card Redemption Abuse | BugForge Lab"
 date: 2026-05-03 16:00:00 +0530
-categories: [Web Security, Insecure Design]
+categories: [A06 - Insecure Design, Business Logic Abuse]
 tags: [token-enumeration, predictable-values, brute-force, business-logic, api-security, insecure-design]
 platform: BugForge
 author: Shivansh Sharma

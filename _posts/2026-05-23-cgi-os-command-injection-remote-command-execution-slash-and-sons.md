@@ -1,7 +1,7 @@
 ---
 title: "OS Command Injection – Remote Command Execution via Legacy CGI Endpoint | Slash & Sons"
 date: 2026-05-23 23:15:00 +0530
-categories: [Web Security, Command Injection]
+categories: [A05 - Injection, OS Command Injection]
 tags: [command-injection, rce, cgi, os-injection, legacy-systems, webversepro]
 platform: WebVerse
 author: Shivansh Sharma
@@ -32,7 +32,7 @@ Identify the vulnerable CGI functionality, achieve command execution, and retrie
 
 ```text
 OWASP Category
-└── A03: Injection
+└── A05: Injection
     └── OS Command Injection
         └── CGI Command Injection
             └── Unsanitized User Input Passed to System Commands
@@ -195,7 +195,7 @@ Because user input was concatenated directly into operating system commands, att
 
 # Impact
 
-In real environments OS command injection can lead to:
+In real environments OS Command Injection can lead to:
 
 - Remote code execution
 - Sensitive file disclosure

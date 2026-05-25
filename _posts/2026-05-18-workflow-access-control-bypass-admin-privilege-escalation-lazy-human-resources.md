@@ -1,7 +1,7 @@
 ---
 title: "Workflow Access Control Bypass – Admin Privilege Escalation | Lazy Human Resources"
 date: 2026-05-18 20:30:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, Authorization Bypass]
 tags: [access-control, privilege-escalation, workflow-bypass, authorization, logic-flaw, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

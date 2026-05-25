@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection – Authentication Bypass on Employee Portal | Gatekeeper"
 date: 2026-05-18 02:05:00 +0530
-categories: [Web Security, SQL Injection]
+categories: [A05 - Injection, SQL Injection]
 tags: [sqli, authentication-bypass, login-bypass, sql-injection, webversepro]
 platform: WebVerse
 author: Shivansh Sharma
@@ -32,7 +32,7 @@ Exploit the login functionality and gain access to the internal dashboard.
 
 ```text
 OWASP Category
-└── A03: Injection
+└── A05: Injection
     └── SQL Injection
         └── Authentication Bypass SQLi
             └── Unsanitized Login Input in SQL Query

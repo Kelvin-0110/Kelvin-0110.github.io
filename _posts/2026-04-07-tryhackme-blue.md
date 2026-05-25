@@ -1,10 +1,11 @@
 ---
 title: "SMB Exploit (MS17-010 EternalBlue) – Remote Code Execution & Privilege Escalation | Blue"
 date: 2026-04-07 22:45:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, CVE-2017-0144 (EternalBlue RCE)]
 tags: [
   eternalblue,
   ms17-010,
+  cve-2017-0144,
   smb,
   remote-code-execution,
   privilege-escalation,

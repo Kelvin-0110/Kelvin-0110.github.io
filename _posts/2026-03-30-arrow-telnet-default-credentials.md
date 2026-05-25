@@ -1,7 +1,7 @@
 ---
 title: "Default Credentials – Telnet Misconfiguration Leading to Root Access | Arrow"
 date: 2026-03-29 19:00:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Linux Privilege Escalation]
 tags: [
   default-credentials,
   telnet,

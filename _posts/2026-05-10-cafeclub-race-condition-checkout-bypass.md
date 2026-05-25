@@ -1,7 +1,7 @@
 ---
 title: "Race Condition in Cart and Checkout Flow – Multi-Item Purchase for Single Charge | Cafe Club"
 date: 2026-05-10 22:24:01 +0530
-categories: [Web Security, Insecure Design]
+categories: [A06 - Insecure Design, Race Condition]
 tags: [race-condition, business-logic, checkout-bypass, cart-manipulation, parallel-requests, burp-suite, bugforge]
 platform: BugForge
 author: Shivansh Sharma

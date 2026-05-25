@@ -1,7 +1,7 @@
 ---
 title: "Missing Access Control – Unrestricted Staff Portal Exposure | Coltsfoot Community Center"
 date: 2026-05-21 23:58:00 +0530
-categories: [Web Security, Broken Access Control]
+categories: [A01 - Broken Access Control, Missing Authorization]
 tags: [broken-access-control, missing-authorization, forced-browsing, robots-disclosure, staff-portal, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

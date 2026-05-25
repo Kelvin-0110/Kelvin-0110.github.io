@@ -1,7 +1,7 @@
 ---
 title: "Weak Authentication – SSH Brute Force Leading to Unauthorized Access | Discover Lernaean"
 date: 2026-03-29 23:00:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Linux priviledge escalation]
 tags: [
   weak-authentication,
   ssh,

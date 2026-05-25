@@ -1,7 +1,7 @@
 ---
 title: "Unrestricted File Upload – RCE Leading to Database Credential Disclosure | Hackviser Lab"
 date: 2026-05-04 15:00:00 +0530
-categories: [Web Security, Unrestricted File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, rce, php, misconfiguration, sensitive-data-exposure]
 platform: Hackviser
 author: Shivansh Sharma

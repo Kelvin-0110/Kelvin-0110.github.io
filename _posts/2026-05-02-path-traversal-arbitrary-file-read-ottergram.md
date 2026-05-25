@@ -1,7 +1,7 @@
 ---
 title: "Path Traversal – Arbitrary File Read via Image Endpoint | Ottergram"
 date: 2026-05-02 1:10:00 +0530
-categories: [Web Security, File Inclusion]
+categories: [A01 - Broken Access Control, Path Traversal]
 tags: [path-traversal, lfi, arbitrary-file-read, bugforge, file-handling]
 platform: BugForge
 author: Shivansh Sharma

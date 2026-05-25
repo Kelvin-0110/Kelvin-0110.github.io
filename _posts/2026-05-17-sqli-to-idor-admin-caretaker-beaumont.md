@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection to Admin Access – Hidden Identity Exposure | The Caretaker"
 date: 2026-05-17 16:10:00 +0530
-categories: [Web Security, SQL Injection]
+categories: [A05 - Injection, SQL Injection]
 tags: [sqli, sqlite, union-based-sqli, auth-bypass, information-disclosure, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

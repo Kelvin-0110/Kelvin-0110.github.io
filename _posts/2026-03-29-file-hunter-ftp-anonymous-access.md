@@ -1,7 +1,7 @@
 ---
 title: "Anonymous Access – FTP Misconfiguration Leading to Credential Disclosure | File Hunter"
 date: 2026-03-29 20:00:00 +0530
-categories: [Penetration Testing]
+categories: [Penetration Testing, Web Application Exploitation]
 tags: [
   anonymous-access,
   ftp,

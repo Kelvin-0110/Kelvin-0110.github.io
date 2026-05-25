@@ -1,7 +1,7 @@
 ---
 title: "JWT alg:none Authentication Bypass to Admin Access | EverGreen"
 date: 2026-05-10 10:15:00 +0530
-categories: [Web Security, Broken Authentication]
+categories: [A07 - Authentication Failures, JWT]
 tags: [jwt, alg-none, authentication-bypass, privilege-escalation, insecure-authentication, session-management, webversepro]
 platform: WebVerse
 author: Shivansh Sharma

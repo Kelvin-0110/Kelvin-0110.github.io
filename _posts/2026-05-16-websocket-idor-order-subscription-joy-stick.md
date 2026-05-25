@@ -1,7 +1,7 @@
 ---
 title: "IDOR via WebSocket Subscription – Cross-Order Data Exposure | JoyStick"
 date: 2026-05-16 14:30:00 +0530
-categories: [Web Security, IDOR]
+categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, websocket, authorization-bypass, sensitive-data-exposure, webversepro]
 platform: WebVerse
 author: Shivansh Sharma
