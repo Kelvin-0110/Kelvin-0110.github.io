@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/gatekeeper
+Lab: [Gatekeeper](https://dashboard.webverselabs-pro.com/challenges/gatekeeper)
 
 # Overview
 

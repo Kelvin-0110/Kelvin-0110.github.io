@@ -11,7 +11,7 @@ image:
 ---
 
 ## Lab Link
-https://dashboard.webverselabs-pro.com/mystery-challenges/versed
+Lab: [Versed](https://dashboard.webverselabs-pro.com/mystery-challenges/versed)
 
 ---
 

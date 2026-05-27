@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/inside-line
+Lab: [Statuscraft](https://dashboard.webverselabs-pro.com/challenges/inside-line)
 
 # Overview
 

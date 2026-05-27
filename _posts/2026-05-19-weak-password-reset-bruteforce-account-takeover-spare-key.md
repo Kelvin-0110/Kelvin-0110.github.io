@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/spare-key
+Lab: [Heartwood Outfitters](https://dashboard.webverselabs-pro.com/challenges/spare-key)
 
 ## Overview
 

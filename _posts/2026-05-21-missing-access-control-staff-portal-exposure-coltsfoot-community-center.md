@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/backstage
+Lab: [Coltsfoot Community Center](https://dashboard.webverselabs-pro.com/challenges/backstage)
 
 # Overview
 

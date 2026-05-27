@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/cutcorner
+Lab: [CutCorner](https://dashboard.webverselabs-pro.com/mystery-challenges/cutcorner)
 
 # Overview
 

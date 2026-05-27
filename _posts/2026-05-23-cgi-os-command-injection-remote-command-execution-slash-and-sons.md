@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/slash
+Lab: [Slash & Sons](https://dashboard.webverselabs-pro.com/mystery-challenges/slash)
 
 # Overview
 

@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/snooker
+Lab: [snooker](https://dashboard.webverselabs-pro.com/mystery-challenges/snooker)
 
 # Overview
 

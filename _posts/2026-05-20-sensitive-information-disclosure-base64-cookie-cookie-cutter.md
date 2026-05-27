@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/cookie-cutter
+Lab: [Cookie Cutter](https://dashboard.webverselabs-pro.com/challenges/cookie-cutter)
 
 # Overview
 

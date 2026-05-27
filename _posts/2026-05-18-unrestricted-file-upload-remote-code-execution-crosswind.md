@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/sidestep
+Lab: [Crosswind](https://dashboard.webverselabs-pro.com/challenges/sidestep)
 
 # Overview
 

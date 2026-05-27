@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/walk-in
+Lab: [Brackish Brewing Co.](https://dashboard.webverselabs-pro.com/challenges/walk-in)
 
 # Overview
 

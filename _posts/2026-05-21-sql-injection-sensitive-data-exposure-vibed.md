@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/vibed
+Lab: [Viber](https://dashboard.webverselabs-pro.com/mystery-challenges/vibed)
 
 # Overview
 

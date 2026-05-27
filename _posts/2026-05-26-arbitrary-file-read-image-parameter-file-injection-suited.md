@@ -19,7 +19,7 @@ The issue occurs because the `image` parameter is directly used in file resoluti
 ---
 ## Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/suited
+Lab: [Suited](https://dashboard.webverselabs-pro.com/mystery-challenges/suited)
 
 ---
 ## Objective

@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/header-hunt
+Lab: [Header Hunt](https://dashboard.webverselabs-pro.com/challenges/header-hunt)
 
 ## Overview
 

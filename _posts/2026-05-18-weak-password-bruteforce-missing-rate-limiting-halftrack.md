@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/combination
+Lab: [Halftrack Model Railroad Club](https://dashboard.webverselabs-pro.com/challenges/combination)
 
 # Overview
 

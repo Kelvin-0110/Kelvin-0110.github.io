@@ -11,7 +11,7 @@ image:
 ---
 
 ## Lab Link
-https://dashboard.webverselabs-pro.com/mystery-challenges/candy
+Lab: [Candy](https://dashboard.webverselabs-pro.com/mystery-challenges/candy)
 
 ---
 

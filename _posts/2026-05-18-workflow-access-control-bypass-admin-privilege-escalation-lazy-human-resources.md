@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/mystery-challenges/lazy-human-resources
+Lab: [Lazy Human Resources](https://dashboard.webverselabs-pro.com/mystery-challenges/lazy-human-resources)
 
 # Overview
 

@@ -12,7 +12,7 @@ image:
 
 # Lab Link
 
-https://dashboard.webverselabs-pro.com/challenges/inscription
+Lab: [Crate & Sleeve](https://dashboard.webverselabs-pro.com/challenges/inscription)
 
 # Overview
 
