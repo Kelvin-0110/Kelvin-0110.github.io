@@ -92,11 +92,13 @@ Host: outbox.local
 
 Relevant request body:
 
+{% raw %}
 ```
 Content-Disposition: form-data; name="body"
 
 Hello {{7*7}},
 ```
+{% endraw %}
 
 ---
 
