@@ -1,6 +1,6 @@
 ---
 title: "Stored XSS – Internal Endpoint Enumeration Through Comment Injection | Crate & Sleeve"
-date: 2026-05-18 01:10:00 +0530
+date: 2026-05-18 02:10:00 +0530
 categories: [A05 - Injection, Stored Cross-Site Scripting]
 tags: [xss, stored-xss, endpoint-enumeration, javascript-injection, webversepro]
 platform: WebVerse
