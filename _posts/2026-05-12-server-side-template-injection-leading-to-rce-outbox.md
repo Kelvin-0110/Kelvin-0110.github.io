@@ -2,7 +2,7 @@
 title: "Server-Side Template Injection Leading to Remote Code Execution | Outbox"
 date: 2026-05-12 21:25:00 +0530
 categories: [A05 - Injection, SSTI]
-tags: [ssti, server-side template injection, remote code execution, rce, php, template injection, webversepro, file disclosure, command execution]
+tags: [ssti, server-side-template-injection, remote-code-execution, rce, php, template-injection, webversepro, file-disclosure, command-execution]
 platform: Webverse
 author: Shivansh Sharma
 image:

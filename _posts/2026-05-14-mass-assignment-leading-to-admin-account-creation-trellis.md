@@ -2,7 +2,7 @@
 title: "Mass Assignment Leading to Admin Account Creation | Trellis"
 date: 2026-05-14 10:10:00 +0530
 categories: [A01 - Broken Access Control, Mass Assignment]
-tags: [mass assignment, insecure design, privilege escalation, burp suite, access control, webversepro, role manipulation]
+tags: [mass-assignment, insecure-design, privilege-escalation, burp-suite, access-control, webversepro, role-manipulation]
 platform: Webverse
 author: Shivansh Sharma
 image:

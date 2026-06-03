@@ -2,7 +2,7 @@
 title: "Command Injection via Filename Parameter Leading to Remote Code Execution | Quotin"
 date: 2026-05-14 4:05:00 +0530
 categories: [A05 - Injection, Command Injection]
-tags: [command injection, file upload, remote code execution, rce, reverse shell, burp suite, webverse, linux, ffuf]
+tags: [command-injection, file-upload, remote-code-execution, rce, reverse-shell, burp-suite, webverse, linux, ffuf]
 platform: Webverse
 author: Shivansh Sharma
 image:
