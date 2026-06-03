@@ -5,9 +5,9 @@ categories: [A05 - Injection, Cross-Site Scripting (XSS)]
 tags: [webversepro, xss, reflected-xss, html-injection, tag-breakout, client-side]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/rivet-and-tack-reflected-xss.webp
-alt: Cross-Site Scripting (XSS) – HTML Tag Breakout | Rivet & Tack
-------------------------------------------------------------------
+  path: /assets/images/posts/rivet-and-tack-reflected-xss.webp
+  alt: Cross-Site Scripting (XSS) – HTML Tag Breakout | Rivet & Tack
+---
 
 ## Lab Link
 

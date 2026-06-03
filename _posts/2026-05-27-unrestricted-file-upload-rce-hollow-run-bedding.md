@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [webversepro, file-upload, unrestricted-file-upload, rce, php, security-misconfiguration]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/hollow-run-bedding-file-upload-rce.webp
-alt: Unrestricted File Upload – Remote Code Execution | Hollow Run Bedding
---------------------------------------------------------------------------
+  path: /assets/images/posts/hollow-run-bedding-file-upload-rce.webp
+  alt: Unrestricted File Upload – Remote Code Execution | Hollow Run Bedding
+---
 
 ## Lab Link
 

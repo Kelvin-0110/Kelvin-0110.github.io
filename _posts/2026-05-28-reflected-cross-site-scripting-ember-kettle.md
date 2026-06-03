@@ -5,9 +5,9 @@ categories: [A05 - Injection, Cross-Site Scripting (XSS)]
 tags: [webversepro, xss, reflected-xss, injection, javascript, client-side]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/ember-kettle-reflected-xss.webp
-alt: Cross-Site Scripting (XSS) – Reflected Search Injection | Ember Kettle
----------------------------------------------------------------------------
+  path: /assets/images/posts/ember-kettle-reflected-xss.webp
+  alt: Cross-Site Scripting (XSS) – Reflected Search Injection | Ember Kettle
+---
 
 ## Lab Link
 

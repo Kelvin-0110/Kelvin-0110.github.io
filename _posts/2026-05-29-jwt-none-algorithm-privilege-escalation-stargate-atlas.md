@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Privilege Escalation]
 tags: [webversepro, jwt, privilege-escalation, broken-access-control, jwt-none, token-tampering]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/stargate-atlas-jwt-privilege-escalation.webp
-alt: Privilege Escalation – JWT None Algorithm Abuse | Stargate Atlas
----------------------------------------------------------------------
+  path: /assets/images/posts/stargate-atlas-jwt-privilege-escalation.webp
+  alt: Privilege Escalation – JWT None Algorithm Abuse | Stargate Atlas
+---
 
 ## Lab Link
 

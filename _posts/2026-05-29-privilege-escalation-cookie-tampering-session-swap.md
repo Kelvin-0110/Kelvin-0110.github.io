@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Privilege Escalation]
 tags: [webversepro, broken-access-control, privilege-escalation, cookie-tampering, authorization, session-management]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/session-swap-privilege-escalation.webp
-alt: Privilege Escalation – Client-Side Role Cookie Tampering | Session Swap
-----------------------------------------------------------------------------
+  path: /assets/images/posts/session-swap-privilege-escalation.webp
+  alt: Privilege Escalation – Client-Side Role Cookie Tampering | Session Swap
+---
 
 ## Lab Link
 

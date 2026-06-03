@@ -5,9 +5,9 @@ categories: [A05 - Injection, Cross-Site Scripting (XSS)]
 tags: [webversepro, xss, reflected-xss, html-comment, injection, client-side]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/fermata-reflected-xss.webp
-alt: Cross-Site Scripting (XSS) – HTML Comment Breakout | Fermata
------------------------------------------------------------------
+  path: /assets/images/posts/fermata-reflected-xss.webp
+  alt: Cross-Site Scripting (XSS) – HTML Comment Breakout | Fermata
+---
 
 ## Lab Link
 

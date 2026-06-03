@@ -5,9 +5,9 @@ categories: [A05 - Injection, Cross-Site Scripting (XSS)]
 tags: [webversepro, xss, reflected-xss, filter-bypass, injection, input-validation]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/palisade-reflected-xss.webp
-alt: Cross-Site Scripting (XSS) – Inadequate Input Filter Bypass | Palisade
----------------------------------------------------------------------------
+  path: /assets/images/posts/palisade-reflected-xss.webp
+  alt: Cross-Site Scripting (XSS) – Inadequate Input Filter Bypass | Palisade
+---
 
 ## Lab Link
 

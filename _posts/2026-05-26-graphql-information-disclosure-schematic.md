@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, GraphQL Information Disclosure]
 tags: [webversepro, graphql, information-disclosure, introspection, api, security-misconfiguration]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/schematic-graphql-information-disclosure.webp
-alt: GraphQL Information Disclosure – System Configuration Exposure | Schematic
--------------------------------------------------------------------------------
+  path: /assets/images/posts/schematic-graphql-information-disclosure.webp
+  alt: GraphQL Information Disclosure – System Configuration Exposure | Schematic
+---
 
 ## Lab Link
 

@@ -5,9 +5,9 @@ categories: [A05 - Injection, SQL Injection]
 tags: [webverselabs-pro, sql-injection, union-based-sqli, database-enumeration, mariadb, information-schema]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/trace-control-sqli.webp
-alt: SQL Injection via Issue Identifier Parameter | Trace Control
------------------------------------------------------------------
+  path: /assets/images/posts/trace-control-sqli.webp
+  alt: SQL Injection via Issue Identifier Parameter | Trace Control
+---
 
 ## Lab Link
 

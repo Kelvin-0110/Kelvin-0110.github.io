@@ -5,9 +5,9 @@ categories: [A05 - Injection, SQL Injection]
 tags: [webverselabs-pro, sql-injection, union-based-sqli, database-enumeration, information-schema, mariadb]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/voucher-vault-sqli.webp
-alt: SQL Injection in Voucher Search Leads to Executive Voucher Disclosure
---------------------------------------------------------------------------
+  path: /assets/images/posts/voucher-vault-sqli.webp
+  alt: SQL Injection in Voucher Search Leads to Executive Voucher Disclosure
+---
 
 ## Lab Link
 

@@ -5,9 +5,9 @@ categories: [A05 - Injection, Cross-Site Scripting (XSS)]
 tags: [webversepro, xss, reflected-xss, attribute-breakout, html-injection, client-side]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/sandpiper-stationery-reflected-xss.webp
-alt: Cross-Site Scripting (XSS) – Attribute Breakout | Sandpiper Stationery
----------------------------------------------------------------------------
+  path: /assets/images/posts/sandpiper-stationery-reflected-xss.webp
+  alt: Cross-Site Scripting (XSS) – Attribute Breakout | Sandpiper Stationery
+---
 
 ## Lab Link
 

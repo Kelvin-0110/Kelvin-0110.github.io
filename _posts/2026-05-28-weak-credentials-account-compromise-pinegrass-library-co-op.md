@@ -5,8 +5,8 @@ categories: [A07 - Authentication Failures, Weak Credentials]
 tags: [webversepro, authentication-failures, weak-credentials, username-enumeration, ffuf, brute-force]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/pinegrass-library-co-op-weak-credentials.webp
-alt: Weak Credentials – Member Account Compromise | Pinegrass Library Co-op
+  path: /assets/images/posts/pinegrass-library-co-op-weak-credentials.webp
+  alt: Weak Credentials – Member Account Compromise | Pinegrass Library Co-op
 ---
 
 ## Lab Link

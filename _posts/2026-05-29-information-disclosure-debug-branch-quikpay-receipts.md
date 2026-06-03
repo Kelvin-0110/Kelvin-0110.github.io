@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, Information Disclosure]
 tags: [webversepro, information-disclosure, debug-mode, content-type, api, receipts]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/quikpay-receipts-information-disclosure.webp
-alt: Information Disclosure – Debug Branch Receipt Exposure | Quikpay Receipts
-------------------------------------------------------------------------------
+  path: /assets/images/posts/quikpay-receipts-information-disclosure.webp
+  alt: Information Disclosure – Debug Branch Receipt Exposure | Quikpay Receipts
+---
 
 ## Lab Link
 

@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, Information Disclosure]
 tags: [webversepro, information-disclosure, redirects, debug-comments, source-code-review, security-misconfiguration]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/redirect-run-information-disclosure.webp
-alt: Information Disclosure – Redirect Debug Comment Exposure | Redirect Run
-----------------------------------------------------------------------------
+  path: /assets/images/posts/redirect-run-information-disclosure.webp
+  alt: Information Disclosure – Redirect Debug Comment Exposure | Redirect Run
+---
 
 ## Lab Link
 

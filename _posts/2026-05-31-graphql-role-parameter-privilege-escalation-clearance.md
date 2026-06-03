@@ -6,9 +6,9 @@ categories: [A01 - Broken Access Control, Privilege Escalation]
 tags: [webverselabs-pro, graphql, broken-access-control, privilege-escalation, authorization-bypass, healthcare]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/clearance-graphql-privilege-escalation.webp
-alt: GraphQL Role Parameter Abuse Leads to Restricted Medical Note Disclosure
------------------------------------------------------------------------------
+  path: /assets/images/posts/clearance-graphql-privilege-escalation.webp
+  alt: GraphQL Role Parameter Abuse Leads to Restricted Medical Note Disclosure
+---
 
 ## Lab Link
 

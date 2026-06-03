@@ -5,9 +5,9 @@ categories: [A05 - Injection, NoSQL Injection]
 tags: [webverselabs-pro, nosql-injection, mongodb, json-injection, operator-injection, api-security]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/swiftsearch-hotels-nosqli.webp
-alt: NoSQL Injection via Search Filter Object Leads to Hidden Rental Disclosure
--------------------------------------------------------------------------------
+  path: /assets/images/posts/swiftsearch-hotels-nosqli.webp
+  alt: NoSQL Injection via Search Filter Object Leads to Hidden Rental Disclosure
+---
 
 ## Lab Link
 

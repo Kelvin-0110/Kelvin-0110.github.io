@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, Information Disclosure]
 tags: [webversepro, information-disclosure, source-code-review, html-comments, client-side, security-misconfiguration]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/vellichor-press-information-disclosure.webp
-alt: Information Disclosure – Sensitive HTML Comment Exposure | Vellichor Press
--------------------------------------------------------------------------------
+  path: /assets/images/posts/vellichor-press-information-disclosure.webp
+  alt: Information Disclosure – Sensitive HTML Comment Exposure | Vellichor Press
+---
 
 ## Lab Link
 

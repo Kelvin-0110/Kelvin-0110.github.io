@@ -5,9 +5,9 @@ categories: [A02 - Security Misconfiguration, Information Disclosure]
 tags: [webversepro, information-disclosure, robots-txt, security-misconfiguration, sensitive-files, reconnaissance]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/sundial-observatory-information-disclosure.webp
-alt: Information Disclosure – Sensitive Resource Exposure via robots.txt | Sundial Observatory
-----------------------------------------------------------------------------------------------
+  path: /assets/images/posts/sundial-observatory-information-disclosure.webp
+  alt: Information Disclosure – Sensitive Resource Exposure via robots.txt | Sundial Observatory
+---
 
 ## Lab Link
 

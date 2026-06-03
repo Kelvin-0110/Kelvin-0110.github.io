@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Privilege Escalation]
 tags: [webversepro, broken-access-control, privilege-escalation, session-token, cookie-tampering, base64]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/spindrift-workspace-privilege-escalation.webp
-alt: Privilege Escalation – Unsigned Session Token Tampering | Spindrift Workspace
-----------------------------------------------------------------------------------
+  path: /assets/images/posts/spindrift-workspace-privilege-escalation.webp
+  alt: Privilege Escalation – Unsigned Session Token Tampering | Spindrift Workspace
+---
 
 ## Lab Link
 

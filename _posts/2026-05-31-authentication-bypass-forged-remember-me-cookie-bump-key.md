@@ -5,9 +5,9 @@ categories: [A07 - Authentication Failures, Authentication Bypass]
 tags: [webverselabs-pro, authentication-bypass, remember-me-cookie, cookie-tampering, md5, base64, session-management]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/bump-key.webp
-alt: Authentication Bypass via Forged Remember-Me Cookie | Bump Key
--------------------------------------------------------------------
+  path: /assets/images/posts/bump-key.webp
+  alt: Authentication Bypass via Forged Remember-Me Cookie | Bump Key
+---
 
 ## Lab Link
 

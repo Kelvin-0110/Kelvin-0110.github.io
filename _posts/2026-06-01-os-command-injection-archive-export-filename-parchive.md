@@ -5,9 +5,9 @@ categories: [A05 - Injection, OS Command Injection]
 tags: [webverselabs-pro, os-command-injection, command-injection, rce, linux, expressjs]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/parchive-command-injection.webp
-alt: OS Command Injection via Archive Export Filename | Parchive
-----------------------------------------------------------------
+  path: /assets/images/posts/parchive-command-injection.webp
+  alt: OS Command Injection via Archive Export Filename | Parchive
+---
 
 ## Lab Link
 

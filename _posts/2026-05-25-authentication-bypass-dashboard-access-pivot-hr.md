@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Authentication Bypass]
 tags: [webversepro, broken-access-control, authentication-bypass, mfa-bypass, direct-access, authorization]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/pivot-hr-authentication-bypass.webp
-alt: Authentication Bypass – Direct Dashboard Access | Pivot HR
----------------------------------------------------------------
+  path: /assets/images/posts/pivot-hr-authentication-bypass.webp
+  alt: Authentication Bypass – Direct Dashboard Access | Pivot HR
+---
 
 ## Lab Link
 

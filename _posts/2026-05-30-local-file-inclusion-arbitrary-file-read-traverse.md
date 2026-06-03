@@ -7,7 +7,7 @@ author: Shivansh Sharma
 image:
     path: /assets/images/posts/traverse-local-file-inclusion.webp
     alt: Local File Inclusion – Arbitrary File Read | Traverse
-----------------------------------------------------------
+---
 
 ## Lab Link
 

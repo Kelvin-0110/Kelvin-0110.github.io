@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, IDOR]
 tags: [webversepro, idor, broken-access-control, api, account-export, authorization]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/remittance-idor-account-export.webp
-alt: IDOR – Account Export Data Disclosure | Remittance
--------------------------------------------------------
+  path: /assets/images/posts/remittance-idor-account-export.webp
+  alt: IDOR – Account Export Data Disclosure | Remittance
+---
 
 ## Lab Link
 

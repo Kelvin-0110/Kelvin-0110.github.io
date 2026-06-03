@@ -6,9 +6,9 @@ categories: [A01 - Broken Access Control, Mass Assignment]
 tags: [webversepro, mass-assignment, broken-access-control, privilege-escalation, api, role-escalation]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/salt-brook-pilates-mass-assignment.webp
-alt: Mass Assignment – Role Escalation | Salt Brook Pilates
------------------------------------------------------------
+  path: /assets/images/posts/salt-brook-pilates-mass-assignment.webp
+  alt: Mass Assignment – Role Escalation | Salt Brook Pilates
+---
 
 ## Lab Link
 
