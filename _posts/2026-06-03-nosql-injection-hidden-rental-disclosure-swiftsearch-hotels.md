@@ -1,6 +1,6 @@
 ---
 title: "NoSQL Injection via Search Filter Object Leads to Hidden Rental Disclosure | SwiftSearch Hotels"
-date: 2026-06-03 01:00:00 +0530
+date: 2026-06-03 05:00:00 +0530
 categories: [A05 - Injection, NoSQL Injection]
 tags: [webverselabs-pro, nosql-injection, mongodb, json-injection, operator-injection, api-security]
 author: Shivansh Sharma
