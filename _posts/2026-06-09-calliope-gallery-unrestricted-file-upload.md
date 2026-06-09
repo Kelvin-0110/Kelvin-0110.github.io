@@ -1,7 +1,7 @@
 ---
 title: "Unrestricted File Upload Leads to Remote Code Execution | Calliope Gallery"
 date: 2026-06-09 19:00:00 +0530
-categories: [A05 - Injection, Unrestricted File Upload]
+categories: [A02 - Security Misconfiguration, Unrestricted File Upload]
 tags: [file-upload, web-shell, php, rce, webverselabs-pro, calliope-gallery]
 author: Shivansh Sharma
 image:
