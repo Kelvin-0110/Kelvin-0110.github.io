@@ -1,6 +1,6 @@
 ---
 title: "JWT Algorithm Confusion Leads to Privilege Escalation | Halftone Studio"
-date: 2026-06-09 20:00:00 +0530
+date: 2026-06-08 20:00:00 +0530
 categories: [A07 - Authentication Failures, JWT]
 tags: [jwt, jwt-confusion, hs256, rs256, privilege-escalation, webverselabs-pro, halftone-studio]
 author: Shivansh Sharma
