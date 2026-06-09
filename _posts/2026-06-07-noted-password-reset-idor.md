@@ -1,6 +1,6 @@
 ---
 title: "Password Change IDOR Leads to Administrator Account Takeover | Noted"
-date: 2026-06-09 22:30:00 +0530
+date: 2026-06-07 22:30:00 +0530
 categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, broken-access-control, account-takeover, password-reset, webverselabs-pro, noted]
 author: Shivansh Sharma
