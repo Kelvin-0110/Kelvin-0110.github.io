@@ -1,6 +1,6 @@
 ---
 title: "NoSQL Injection Leads to Treasury Account Takeover | Coined"
-date: 2026-06-09 22:00:00 +0530
+date: 2026-06-07 22:00:00 +0530
 categories: [A05 - Injection, NoSQL Injection]
 tags: [nosql-injection, mongodb, authentication-bypass, privilege-escalation, webverselabs-pro, coined]
 author: Shivansh Sharma
