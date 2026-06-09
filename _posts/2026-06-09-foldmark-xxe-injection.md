@@ -5,8 +5,8 @@ categories: [A05 - Injection, XML External Entity]
 tags: [xxe, xml, file-disclosure, webverselabs-pro, foldmark]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/foldmark-xxe-injection.webp
-alt: Foldmark XML External Entity Injection
+    path: /assets/images/posts/foldmark-xxe-injection.webp
+    alt: Foldmark XML External Entity Injection
 -------------------------------------------
 
 ## Lab Link
