@@ -7,7 +7,7 @@ author: Shivansh Sharma
 image:
     path: /assets/images/posts/autovation-unsafe-yaml-deserialization.webp
     alt: Autovation Unsafe YAML Deserialization
--------------------------------------------
+  ---
 
 ## Lab Link
 

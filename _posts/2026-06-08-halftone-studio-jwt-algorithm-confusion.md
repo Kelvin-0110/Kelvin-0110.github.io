@@ -5,9 +5,9 @@ categories: [A07 - Authentication Failures, JWT]
 tags: [jwt, jwt-confusion, hs256, rs256, privilege-escalation, webverselabs-pro, halftone-studio]
 author: Shivansh Sharma
 image:
-    path: /assets/images/posts/halftone-studio-jwt-algorithm-confusion.webp
-    alt: Halftone Studio JWT Algorithm Confusion
---------------------------------------------
+  path: /assets/images/posts/halftone-studio-jwt-algorithm-confusion.webp
+  alt: Halftone Studio JWT Algorithm Confusion
+---
 
 ## Lab Link
 

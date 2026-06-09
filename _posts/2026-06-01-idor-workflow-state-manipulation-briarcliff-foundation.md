@@ -5,8 +5,8 @@ categories: [A01 - Broken Access Control, IDOR]
 tags: [webverselabs-pro, idor, broken-access-control, authorization-bypass, workflow-manipulation, flask]
 author: Shivansh Sharma
 image:
-    path: /assets/images/posts/briarcliff-foundation-idor.webp
-    alt: IDOR vulnerability in Briarcliff Foundation grant application workflow
+  path: /assets/images/posts/briarcliff-foundation-idor.webp
+  alt: IDOR vulnerability in Briarcliff Foundation grant application workflow
 ---
 
 

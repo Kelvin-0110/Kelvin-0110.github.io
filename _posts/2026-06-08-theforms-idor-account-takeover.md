@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, account-takeover, uuid, websocket, broken-access-control, webverselabs-pro, theforms]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/theforms-idor-account-takeover.webp
-alt: TheForms IDOR Account Takeover
------------------------------------
+  path: /assets/images/posts/theforms-idor-account-takeover.webp
+  alt: "TheForms IDOR Account Takeover"
+---
 
 ## Lab Link
 

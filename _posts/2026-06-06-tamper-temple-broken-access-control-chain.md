@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Privilege Escalation]
 tags: [jwt, information-disclosure, access-control, method-override, privilege-escalation, webverselabs-pro, tamper-temple]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/tamper-temple-broken-access-control-chain.webp
-alt: Tamper Temple Broken Access Control Chain
-----------------------------------------------
+  path: /assets/images/posts/tamper-temple-broken-access-control-chain.webp
+  alt: "Tamper Temple Broken Access Control Chain"
+---
 
 ## Lab Link
 

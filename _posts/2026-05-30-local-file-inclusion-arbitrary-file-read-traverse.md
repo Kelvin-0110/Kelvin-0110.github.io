@@ -5,8 +5,8 @@ categories: [A02 - Security Misconfiguration, Local File Inclusion]
 tags: [webversepro, lfi, local-file-inclusion, directory-traversal, arbitrary-file-read, path-traversal]
 author: Shivansh Sharma
 image:
-    path: /assets/images/posts/traverse-local-file-inclusion.webp
-    alt: Local File Inclusion – Arbitrary File Read | Traverse
+  path: /assets/images/posts/traverse-local-file-inclusion.webp
+  alt: Local File Inclusion – Arbitrary File Read | Traverse
 ---
 
 ## Lab Link

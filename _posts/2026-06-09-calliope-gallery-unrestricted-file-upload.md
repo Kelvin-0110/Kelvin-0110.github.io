@@ -7,7 +7,7 @@ author: Shivansh Sharma
 image:
     path: /assets/images/posts/calliope-gallery-unrestricted-file-upload.webp
     alt: Calliope Gallery Unrestricted File Upload
-----------------------------------------------
+---
 
 ## Lab Link
 

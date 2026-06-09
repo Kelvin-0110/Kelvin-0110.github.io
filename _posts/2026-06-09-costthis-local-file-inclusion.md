@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, Local File Inclusion]
 tags: [lfi, path-traversal, file-disclosure, php, webverselabs-pro, costthis]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/costthis-local-file-inclusion.webp
-alt: CostThis Local File Inclusion
-----------------------------------
+    path: /assets/images/posts/costthis-local-file-inclusion.webp
+    alt: "CostThis Local File Inclusion"
+---
 
 ## Lab Link
 

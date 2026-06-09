@@ -5,9 +5,9 @@ categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, broken-access-control, account-takeover, password-reset, webverselabs-pro, noted]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/noted-password-reset-idor.webp
-alt: Noted Password Change IDOR
--------------------------------
+  path: /assets/images/posts/noted-password-reset-idor.webp
+  alt: "Noted Password Change IDOR"
+---
 
 ## Lab Link
 

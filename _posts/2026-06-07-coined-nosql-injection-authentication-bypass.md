@@ -5,9 +5,9 @@ categories: [A05 - Injection, NoSQL Injection]
 tags: [nosql-injection, mongodb, authentication-bypass, privilege-escalation, webverselabs-pro, coined]
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/coined-nosql-injection-authentication-bypass.webp
-alt: Coined NoSQL Injection Authentication Bypass
--------------------------------------------------
+  path: /assets/images/posts/coined-nosql-injection-authentication-bypass.webp
+  alt: "Coined NoSQL Injection Authentication Bypass"
+---
 
 ## Lab Link
 
