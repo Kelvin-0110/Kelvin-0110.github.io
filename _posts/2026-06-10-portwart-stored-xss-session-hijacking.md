@@ -140,7 +140,7 @@ This confirmed successful JavaScript execution within the administrator's browse
 The captured session value was added to the browser using Developer Tools.
 
 ```text
-admin_session=7ea858779b78e56f2a80a6ec96764f53
+admin_session=7ea858779b78e56f2a80a6ec96764f53 
 ```
 
 After replacing the existing cookie with the administrative session, requests to the hidden administrative endpoint were automatically authenticated.
@@ -298,6 +298,6 @@ Once JavaScript executes within an administrator's browser, attackers can freque
 * Create new administrative users
 * Fully compromise backend systems
 
-PortWart demonstrates a classic attack chain where multiple individually moderate weaknesses—Stored XSS, accessible session cookies, and administrative endpoint disclosure—combine to produce a complete administrative takeover.
+PortWart demonstrates a classic attack chain where multiple individually moderate weaknesses Stored XSS, accessible session cookies, and administrative endpoint disclosure combine to produce a complete administrative takeover.
 
 The challenge serves as an excellent example of why input sanitization, output encoding, Content Security Policy, and HttpOnly session cookies must be implemented together rather than relied upon individually.
