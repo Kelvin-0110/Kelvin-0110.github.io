@@ -1,7 +1,7 @@
 ---
 title: "Server-Side Template Injection via Unsigned JWT Claim | GeoJearyy"
 date: 2026-06-11 09:30:00 +0530
-categories: [A05 - Injection, Server-Side Template Injection]
+categories: [A05 - Injection, SSTI]
 tags: [ssti, jinja2, jwt-none, jwt-forgery, flask, webverselabs-pro]
 platform: WebVerse Pro
 author: Shivansh Sharma
