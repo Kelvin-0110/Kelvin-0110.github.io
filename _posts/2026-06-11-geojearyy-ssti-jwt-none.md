@@ -6,8 +6,8 @@ tags: [ssti, jinja2, jwt-none, jwt-forgery, flask, webverselabs-pro]
 platform: WebVerse Pro
 author: Shivansh Sharma
 image:
-path: /assets/images/posts/geojearyy-ssti-jwt-none.webp
-alt: GeoJearyy Server-Side Template Injection via Unsigned JWT Claim
+  path: /assets/images/posts/geojearyy-ssti-jwt-none.webp
+  alt: GeoJearyy Server-Side Template Injection via Unsigned JWT Claim
 ---
 
 ## Lab Link
