@@ -18,7 +18,7 @@ Lab: [Grifted](https://dashboard.webverselabs-pro.com/mystery-challenges/Grifted
 
 ## Overview
 
-**Gifted** is a WebVerse Pro daily challenge based on a booking website for **Madame Renata**, a fortune-telling and reading service.
+**Grifted** is a WebVerse Pro daily challenge based on a booking website for **Madame Renata**, a fortune-telling and reading service.
 
 At first glance, the public website only exposes basic pages such as readings, testimonials, about, and a contact form. However, the challenge briefing hints that the real objective is hidden in a private back office:
 
@@ -395,6 +395,6 @@ Retrieved flag
 
 ## Conclusion
 
-The **Gifted** challenge demonstrated how a weak password reset implementation can lead to complete account takeover.
+The **Grifted** challenge demonstrated how a weak password reset implementation can lead to complete account takeover.
 
 By trusting the `Referer` header while generating password reset links, the application allowed an attacker to redirect the reset token to an external Interact server. Once the token was captured, the attacker could reset the owner's password, access the back office, and retrieve the private license key containing the challenge flag.
