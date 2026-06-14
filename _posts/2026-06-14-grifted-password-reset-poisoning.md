@@ -1,18 +1,18 @@
 ---
-title: "Password Reset Poisoning via Referer Header Injection | Gifted"
+title: "Password Reset Poisoning via Referer Header Injection | Grifted"
 date: 2026-06-14 13:15:00 +0530
 categories: [A07 - Authentication Failures, Password Reset Poisoning]
 tags: [password-reset-poisoning, referer-header-injection, authentication-failures, account-takeover, webverselabs-pro, ctf]
 platform: WebVerse Pro
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/gifted-password-reset-poisoning.webp
-  alt: Gifted - Password Reset Poisoning via Referer Header Injection
+  path: /assets/images/posts/grifted-password-reset-poisoning.webp
+  alt: Grifted - Password Reset Poisoning via Referer Header Injection
 ---
 
 ## Lab Link
 
-Lab: [Gifted](https://dashboard.webverselabs-pro.com/mystery-challenges/gifted)
+Lab: [Grifted](https://dashboard.webverselabs-pro.com/mystery-challenges/Grifted)
 
 ---
 
