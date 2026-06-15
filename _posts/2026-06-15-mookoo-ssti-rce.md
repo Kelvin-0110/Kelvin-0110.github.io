@@ -7,7 +7,7 @@ platform: WebVerse Pro
 author: Shivansh Sharma
 image:
   path: /assets/images/posts/mookoo-ssti-rce.webp
-  alt: MooKoo Server-Side Template Injection to RCE
+  alt: "MooKoo Server-Side Template Injection to RCE"
 ---
 
 ## Lab Link
