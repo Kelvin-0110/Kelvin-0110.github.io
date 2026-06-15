@@ -284,7 +284,7 @@ To prevent this vulnerability:
 - Run the application with least-privilege OS permissions.
 - Disable dangerous template features where possible.
 - Add security tests for SSTI payloads during development and CI.
-- Monitor suspicious payloads such as `<%=`, `${`, `{{`, and command-substitution patterns.
+- Monitor suspicious payloads such as `<%=`, `${`, {% raw %}`{{`{% endraw %}, and command-substitution patterns.
 
 ---
 
