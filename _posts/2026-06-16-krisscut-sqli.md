@@ -12,7 +12,7 @@ image:
 
 ## Lab Link
 
-Lab: [KrissCut](https://dashboard.webverselabs-pro.com/mystery-challenges/mookoo)
+Lab: [KrissCut](https://dashboard.webverselabs-pro.com/mystery-challenges/krisscut)
 
 ---
 
