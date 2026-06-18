@@ -1,6 +1,6 @@
 ---
 title: "LDAP Injection Leads to Authentication Bypass | MeltDown"
-date: 2026-06-18 00:30:00 +0530
+date: 2026-06-18 04:30:00 +0530
 categories: [A05 - Injection, LDAP Injection]
 tags: [ldap-injection, authentication-bypass, operator-portal, scada, express, webverselabs-pro, meltdown]
 platform: WebVerse Pro
