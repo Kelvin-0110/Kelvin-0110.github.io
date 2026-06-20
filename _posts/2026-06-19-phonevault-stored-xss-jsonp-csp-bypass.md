@@ -1,6 +1,6 @@
 ---
 title: "Stored XSS and JSONP Callback Injection Leads to Admin Session Theft | PhoneVault"
-date: 2026-06-19 20:00:00 +0530
+date: 2026-06-19 14:00:00 +0530
 categories: [A05 - Injection, Cross-Site Scripting]
 tags: [xss, stored-xss, jsonp, csp-bypass, cookie-theft, admin-bot, webverselabs-pro, phonevault]
 platform: WebVerse Pro
