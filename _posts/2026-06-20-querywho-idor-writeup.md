@@ -1,6 +1,6 @@
 ---
 title: "Client-Controlled OrgID Leads to Cross-Tenant Data Exposure | QueryWho"
-date: 2026-06-20 09:30:00 +0530
+date: 2026-06-20 04:30:00 +0530
 categories: [A01 - Broken Access Control, IDOR]
 tags: [idor, broken-access-control, cookie-tampering, multi-tenant, api-token-disclosure, webverselabs-pro, querywho]
 platform: WebVerse Pro
@@ -12,7 +12,7 @@ image:
 
 ## Lab Link
 
-[QueryWho - WebVerse Pro Daily Challenge](https://dashboard.webverselabs-pro.com/events/querywho)
+[QueryWho - WebVerse Pro Challenge](https://dashboard.webverselabs-pro.com/mystery-challenges/querywho)
 
 ---
 
