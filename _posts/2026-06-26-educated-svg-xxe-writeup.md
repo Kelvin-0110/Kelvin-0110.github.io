@@ -1,6 +1,6 @@
 ---
 title: "SVG XXE Leads to Local File Disclosure | Educated"
-date: 2026-06-22 10:20:00 +0530
+date: 2026-06-26 10:20:00 +0530
 categories: [A05 - Injection, XML External Entity]
 tags: [webverse, webverse-pro, educated, xxe, svg-upload, file-disclosure, local-file-read, php, owasp-2025]
 platform: WebVerse Pro
