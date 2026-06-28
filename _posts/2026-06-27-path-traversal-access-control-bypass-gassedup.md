@@ -12,9 +12,7 @@ image:
 
 ## Lab Link
 
-> Redacted lab instance  
-> Platform: **WebVerse Pro**
-
+[Gassed Up](https://dashboard.webverselabs-pro.com/mystery-challenges/gassedup)
 ---
 
 ## Overview
