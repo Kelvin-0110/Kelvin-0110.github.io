@@ -6,7 +6,7 @@ tags: [command-injection, exif-metadata, image-processing, file-upload, webverse
 platform: WebVerse
 author: Shivansh Sharma
 image:
-  path: /assets/images/posts/smile-metadata-command-injection.webp
+  path: /assets/images/posts/photostore-metadata-command-injection.webp
   alt: "Smile command injection through EXIF image metadata"
 ---
 

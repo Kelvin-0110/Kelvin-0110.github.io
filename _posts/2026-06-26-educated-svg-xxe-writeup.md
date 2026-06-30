@@ -10,7 +10,7 @@ image:
   alt: Educated - SVG XXE Local File Disclosure
 ---
 
-## Lab Link
+## Lab Link 
 
 [Educated](https://dashboard.webverselabs-pro.com/mystery-challenges/educated)
 
