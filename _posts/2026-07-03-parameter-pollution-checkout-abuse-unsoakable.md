@@ -1,7 +1,7 @@
 ---
 title: "Parameter Pollution Leads to Checkout Abuse | Unsoakable"
 date: 2026-07-03 15:16:00 +0530
-categories: [A03 - Injection, Parameter Pollution]
+categories: [A05 - Injection, Parameter Pollution]
 tags: [parameter-pollution, mass-assignment, reflected-xss, checkout-abuse, input-validation, webverse-pro]
 platform: WebVerse Pro
 author: Shivansh Sharma
