@@ -1,6 +1,6 @@
 ---
 title: "Cross-Site Request Forgery Leads to Account Takeover | Crossed"
-date: 2026-06-25 12:40:00 +0530
+date: 2026-07-02 12:40:00 +0530
 categories: [A01 - Broken Access Control, Cross-Site Request Forgery]
 tags: [csrf, cross-site-request-forgery, account-takeover, broken-access-control, webverse-pro]
 platform: WebVerse Pro
