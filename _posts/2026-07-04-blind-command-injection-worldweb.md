@@ -1,6 +1,6 @@
 ---
 title: "Blind Command Injection via GraphQL Host Checks | WorldWeb"
-date: 2026-07-04 13:30:00 +0530
+date: 2026-07-04 10:30:00 +0530
 categories: [A05 - Injection, Command Injection]
 tags: [blind-command-injection, command-injection, graphql, time-based-extraction, webverse, webverse-pro]
 platform: WebVerse Pro
