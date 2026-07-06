@@ -4,7 +4,7 @@ date: 2026-07-05 12:30:00 +0530
 categories: [A05 - Injection, Prototype Pollution]
 tags: [prototype-pollution, dom-xss, csp, client-side, innerhtml, webverse-pro]
 platform: WebVerse Pro
-author: Shivansh Sharma
+author: Kelvin
 image:
   path: /assets/images/posts/subtracted-prototype-pollution-xss.webp
   alt: Subtracted prototype pollution to XSS
