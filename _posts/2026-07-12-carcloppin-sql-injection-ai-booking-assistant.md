@@ -12,7 +12,7 @@ image:
 
 ## Lab Link
 
-[CarCloppin — WebVerse Pro Mystery Challenge](https://dashboard.webverselabs-pro.com/mystery-challenges/carcloppin)
+[CarCloppin](https://dashboard.webverselabs-pro.com/mystery-challenges/carcloppin)
 
 ## Overview
 
