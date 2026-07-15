@@ -1,6 +1,6 @@
 ---
 title: "Prompt Injection Leads to Secret Disclosure | Statica"
-date: 2026-07-14 14:45:00 +0530
+date: 2026-07-14 12:45:00 +0530
 categories: [A02 - Security Misconfiguration, Prompt Injection]
 tags: [prompt-injection, ai-security, information-disclosure, secret-leakage, output-filter-bypass, webverse-pro]
 platform: WebVerse Pro
