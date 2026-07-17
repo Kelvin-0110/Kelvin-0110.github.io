@@ -168,8 +168,6 @@ with ThreadPoolExecutor(max_workers=15) as executor:
 
 The search found a valid code and completed the verification step.
 
-> The valid OTP is intentionally omitted because it is challenge-instance-specific.
-
 ### Step 4: Access the Member Account
 
 After successful verification, the authenticated session was allowed to access the protected account page:
