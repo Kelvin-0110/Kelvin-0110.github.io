@@ -12,7 +12,7 @@ image:
 
 ## Lab Link
 
-> The original challenge instance has been redacted because temporary WebVerse hosts expire after the lab ends.
+[Archived](https://dashboard.webverselabs-pro.com/mystery-challenges/archived) 
 
 ## Overview
 
