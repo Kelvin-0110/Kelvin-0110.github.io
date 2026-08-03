@@ -1,6 +1,6 @@
 ---
 title: "SQL Injection Leads to Internal Service Exposure via SSRF | Probed"
-date: 2026-07-15 09:43:00 +0530
+date: 2026-08-03 09:43:00 +0530
 categories: [A01 - Broken Access Control, SSRF]
 tags: [sql-injection, ssrf, loopback-bypass, internal-service, ai-assistant, webverse-pro, mystery-challenge]
 platform: WebVerse Pro
